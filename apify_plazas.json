@@ -1,0 +1,9191 @@
+[{
+  "title": "Plaza Hípica",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Centro comercial",
+  "address": "83249, Blvd. Luis Donaldo Colosio Murrieta, La Manga, Hermosillo, Son., México",
+  "neighborhood": "La Manga",
+  "street": "83249, Blvd. Luis Donaldo Colosio Murrieta",
+  "city": "Hermosillo",
+  "postalCode": null,
+  "state": "Son.",
+  "countryCode": "MX",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 29.0810915,
+    "lng": -111.0281857
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "3XJC+CP Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJg_IcisODzoYRfPt0iwL_CCo",
+  "categories": [
+    "Centro comercial"
+  ],
+  "fid": "0x86ce83c38a1cf283:0x2a08ff028b74fb7c",
+  "cid": "3028951135801375612",
+  "reviewsCount": 459,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 5,
+    "threeStar": 44,
+    "fourStar": 108,
+    "fiveStar": 302
+  },
+  "imagesCount": 32,
+  "imageCategories": [
+    "Todas",
+    "Interior",
+    "Vídeos",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-22T20:35:39.696Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Un poco concurrido",
+  "popularTimesLivePercent": 63,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 4,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 7
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 4,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 97
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 7
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 4,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 9
+      }
+    ],
+    "We": [
+      {
+        "hour": 4,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 6
+      }
+    ],
+    "Th": [
+      {
+        "hour": 4,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 98
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 7
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 4,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 9
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 4,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 10
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "miércoles",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "jueves",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "viernes",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "sábado",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "domingo",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "lunes",
+      "hours": "Abierto las 24 horas"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "Epic Plaza",
+      "reviewsCount": 258,
+      "totalScore": 4.5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza Conquistador",
+      "reviewsCount": 229,
+      "totalScore": 4.6
+    },
+    {
+      "category": "También se buscó",
+      "title": "plaza comercial",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza Las Palmas",
+      "reviewsCount": 195,
+      "totalScore": 4.5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza Comercial CONCHITA",
+      "reviewsCount": 32,
+      "totalScore": 4.2
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 5
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 9
+    },
+    {
+      "title": "Otra",
+      "count": 9
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "estacionamiento",
+      "count": 22
+    },
+    {
+      "title": "negocios",
+      "count": 7
+    },
+    {
+      "title": "pizzas",
+      "count": 5
+    },
+    {
+      "title": "locales",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20H%C3%ADpica&query_place_id=ChIJg_IcisODzoYRfPt0iwL_CCo",
+  "searchString": "place_id:ChIJg_IcisODzoYRfPt0iwL_CCo",
+  "language": "es",
+  "inputPlaceId": "ChIJg_IcisODzoYRfPt0iwL_CCo",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJg_IcisODzoYRfPt0iwL_CCo&query_place_id=ChIJg_IcisODzoYRfPt0iwL_CCo",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlICOJ1R7lvfDiJwvLADDGVMdvHUYxlPmrpsk5rMpzucNsQ6H1Fy80cauxU4uP8C9abOm-Lcpfhb0oL-maM55YxAmKnfyKk4aJ2EefC8inICzfrGJk0gM5i8-jd259fdgUixZ3V=w408-h310-k-no",
+  "kgmid": "/g/11c2p8y0hd",
+  "businessProfileId": null,
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Plaza Progreso",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Centro comercial",
+  "address": "Blvd. Progreso &, miguel piña, 83106 Hermosillo, Son., México",
+  "neighborhood": "miguel piña",
+  "street": "Blvd. Progreso &",
+  "city": "Hermosillo",
+  "postalCode": "83106",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 29.1466569,
+    "lng": -110.9728431
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "42WG+MV Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJq4cA7uCGzoYRpxFl42FMDlM",
+  "categories": [
+    "Centro comercial"
+  ],
+  "fid": "0x86ce86e0ee0087ab:0x530e4c61e36511a7",
+  "cid": "5984804938132558247",
+  "reviewsCount": 270,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 3,
+    "threeStar": 26,
+    "fourStar": 48,
+    "fiveStar": 189
+  },
+  "imagesCount": 5,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-22T20:35:42.727Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "miércoles",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "jueves",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "viernes",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "sábado",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "domingo",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "lunes",
+      "hours": "8 AM to 2 a.m."
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 4
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 1
+    },
+    {
+      "title": "Otra",
+      "count": 6
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "estacionamiento",
+      "count": 12
+    },
+    {
+      "title": "negocios",
+      "count": 3
+    },
+    {
+      "title": "pastelería",
+      "count": 2
+    },
+    {
+      "title": "cantidad",
+      "count": 2
+    },
+    {
+      "title": "gimnasio",
+      "count": 2
+    },
+    {
+      "title": "café",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Progreso&query_place_id=ChIJq4cA7uCGzoYRpxFl42FMDlM",
+  "searchString": "place_id:ChIJq4cA7uCGzoYRpxFl42FMDlM",
+  "language": "es",
+  "inputPlaceId": "ChIJq4cA7uCGzoYRpxFl42FMDlM",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJq4cA7uCGzoYRpxFl42FMDlM&query_place_id=ChIJq4cA7uCGzoYRpxFl42FMDlM",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkJHbejL1hI9LylQdz_MNtFWLKcvtCBWmObItyZfnMP5eeux2MctGPeHGSY70P7OQG-_NK3cl1NX8aZj0gtlxM8-UwfyQ-Tp1IJDGWc-X8Jv1FHjVJKr4wIQTSqk4i9wcFQxBUO4g=w408-h306-k-no",
+  "kgmid": "/g/11f298nfb2",
+  "businessProfileId": null,
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Masterfuel Colosio",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Somos una nueva marca, nuestro combustible está aditivado con tecnología importada. Nuestro enfoque principal es brindarle al cliente la mejor atención y experiencia.",
+  "price": null,
+  "categoryName": "Gasolinera",
+  "address": "Blvd Luis Donaldo Colosio, C. Real del Arco 490, 83255 Hermosillo, Son., México",
+  "neighborhood": null,
+  "street": "Blvd Luis Donaldo Colosio, C. Real del Arco 490",
+  "city": "Hermosillo",
+  "postalCode": "83255",
+  "state": "Son.",
+  "countryCode": "MX",
+  "website": "http://www.gaservicio.com/",
+  "phone": "+52 662 289 1826",
+  "phoneUnformatted": "+526622891826",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.0849039,
+    "lng": -110.9850948
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "32M7+XX Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJUwfDaxKEzoYROQ6U9OlCcFM",
+  "categories": [
+    "Gasolinera"
+  ],
+  "fid": "0x86ce84126bc30753:0x537042e9f4940e39",
+  "cid": "6012379075137769017",
+  "reviewsCount": 287,
+  "reviewsDistribution": {
+    "oneStar": 16,
+    "twoStar": 3,
+    "threeStar": 26,
+    "fourStar": 55,
+    "fiveStar": 187
+  },
+  "imagesCount": 20,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-22T20:35:45.665Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "miércoles",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "jueves",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "viernes",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "sábado",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "domingo",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "lunes",
+      "hours": "Abierto las 24 horas"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Otra",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "facturar",
+      "count": 13
+    },
+    {
+      "title": "despachador",
+      "count": 6
+    },
+    {
+      "title": "precio",
+      "count": 6
+    },
+    {
+      "title": "calidad",
+      "count": 2
+    },
+    {
+      "title": "teléfono",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Masterfuel%20Colosio&query_place_id=ChIJUwfDaxKEzoYROQ6U9OlCcFM",
+  "searchString": "place_id:ChIJUwfDaxKEzoYROQ6U9OlCcFM",
+  "language": "es",
+  "inputPlaceId": "ChIJUwfDaxKEzoYROQ6U9OlCcFM",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJUwfDaxKEzoYROQ6U9OlCcFM&query_place_id=ChIJUwfDaxKEzoYROQ6U9OlCcFM",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPEaOpFd37u29q5yAURAb-GOQebtDVwfdcdrkTm3_gLArl0B9hrFcYz2RHiHkv2N5xeYWDApSfdGvK5OXxk1i9n82lEpJYbRII_GdXAv9oRUjMGZJ0jYvry21Eq_bVRB_xmZjS1SA=w408-h306-k-no",
+  "kgmid": "/g/11dxdhb6nj",
+  "businessProfileId": "9057955483226316292",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Masterfuel Morelos",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Somos una nueva marca, nuestro combustible está aditivado con tecnología importada. Nuestro enfoque principal es brindarle al cliente la mejor atención y experiencia.",
+  "price": null,
+  "categoryName": "Gasolinera",
+  "address": "Bulevar José María Morelos 853, Colonia Cumbres, 83147 Hermosillo, Son., México",
+  "neighborhood": "Colonia Cumbres",
+  "street": "Bulevar José María Morelos 853",
+  "city": "Hermosillo",
+  "postalCode": "83147",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "https://www.masterfuel.mx/",
+  "phone": "+52 662 289 1827",
+  "phoneUnformatted": "+526622891827",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.1447925,
+    "lng": -110.9527273
+  },
+  "locatedIn": "8004 - Gaservicio Morelos",
+  "floor": null,
+  "plusCode": "42VW+WW Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJq_JazOKHzoYRPuUgQ5fYVsU",
+  "categories": [
+    "Gasolinera"
+  ],
+  "fid": "0x86ce87e2cc5af2ab:0xc556d8974320e53e",
+  "cid": "14219791017646810430",
+  "reviewsCount": 470,
+  "reviewsDistribution": {
+    "oneStar": 21,
+    "twoStar": 9,
+    "threeStar": 57,
+    "fourStar": 97,
+    "fiveStar": 286
+  },
+  "imagesCount": 45,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-22T20:35:45.963Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "miércoles",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "jueves",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "viernes",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "sábado",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "domingo",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "lunes",
+      "hours": "Abierto las 24 horas"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 1
+    },
+    {
+      "title": "Compras",
+      "count": 1
+    },
+    {
+      "title": "Otra",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "calidad",
+      "count": 9
+    },
+    {
+      "title": "factura",
+      "count": 9
+    },
+    {
+      "title": "precios",
+      "count": 8
+    },
+    {
+      "title": "baños",
+      "count": 6
+    },
+    {
+      "title": "cara",
+      "count": 3
+    },
+    {
+      "title": "hablar",
+      "count": 2
+    },
+    {
+      "title": "la verdad",
+      "count": 2
+    },
+    {
+      "title": "trabajo",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Masterfuel%20Morelos&query_place_id=ChIJq_JazOKHzoYRPuUgQ5fYVsU",
+  "searchString": "place_id:ChIJq_JazOKHzoYRPuUgQ5fYVsU",
+  "language": "es",
+  "inputPlaceId": "ChIJq_JazOKHzoYRPuUgQ5fYVsU",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJq_JazOKHzoYRPuUgQ5fYVsU&query_place_id=ChIJq_JazOKHzoYRPuUgQ5fYVsU",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnIpK3P9C8PEIvI889QdaBIOfJsSNW3OC1pdkWjgJTiJ1n8rdgbOnFh_iCTQATu1l8gtxkAdqPYASpted9794y5EJbgEwEb0Fwd2kY9zzBJvdrSIjfAYHIalXh6OHCguQyHUC6n5IoyC-08=w408-h544-k-no",
+  "kgmid": "/g/1tq6dy9w",
+  "businessProfileId": "12727681526463955328",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Plaza Dila",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Centro comercial",
+  "address": "Bulevar José María Morelos 349, Bugambilia, 83140 Hermosillo, Son., México",
+  "neighborhood": "Bugambilia",
+  "street": "Bulevar José María Morelos 349",
+  "city": "Hermosillo",
+  "postalCode": "83140",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "http://www.plazadila.com.mx/",
+  "phone": "+52 662 210 2110",
+  "phoneUnformatted": "+526622102110",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 29.1137747,
+    "lng": -110.9521507
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "427X+G4 Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJbUeKNYeGzoYR1DEiZJJlkgc",
+  "categories": [
+    "Centro comercial"
+  ],
+  "fid": "0x86ce8687358a476d:0x7926592642231d4",
+  "cid": "545610184284844500",
+  "reviewsCount": 7798,
+  "reviewsDistribution": {
+    "oneStar": 88,
+    "twoStar": 78,
+    "threeStar": 461,
+    "fourStar": 1684,
+    "fiveStar": 5487
+  },
+  "imagesCount": 2311,
+  "imageCategories": [
+    "Todas",
+    "Interior",
+    "Vídeos",
+    "Alimento",
+    "Restaurante",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-22T20:35:46.126Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Un poco concurrido",
+  "popularTimesLivePercent": 62,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 94
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 97
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "9 AM to 7 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 7 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "Plaza Daly",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "También se buscó",
+      "title": "Estacionamiento de Plaza Dila",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza Boulevard",
+      "reviewsCount": 3003,
+      "totalScore": 4.5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Paseo Plaza",
+      "reviewsCount": 124,
+      "totalScore": 4.4
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza Morelos 813",
+      "reviewsCount": 70,
+      "totalScore": 4.6
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 19
+    },
+    {
+      "title": "Ropa",
+      "count": 2
+    },
+    {
+      "title": "Zapatos",
+      "count": 2
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 13
+    },
+    {
+      "title": "Electrónica",
+      "count": 4
+    },
+    {
+      "title": "Otra",
+      "count": 41
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "estacionamiento",
+      "count": 358
+    },
+    {
+      "title": "bancos",
+      "count": 161
+    },
+    {
+      "title": "vigilancia",
+      "count": 22
+    },
+    {
+      "title": "sushi",
+      "count": 19
+    },
+    {
+      "title": "pastelerías",
+      "count": 13
+    },
+    {
+      "title": "sombra",
+      "count": 11
+    },
+    {
+      "title": "tenis",
+      "count": 11
+    },
+    {
+      "title": "tabú",
+      "count": 10
+    },
+    {
+      "title": "tiendas de ropa",
+      "count": 10
+    },
+    {
+      "title": "laser tag",
+      "count": 8
+    }
+  ],
+  "additionalInfo": {
+    "Opciones de servicio": [
+      {
+        "Servicios en el lugar": true
+      }
+    ],
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "Al día de hoy sigo siendo cliente y siento que ha cambiado mucho administrativamente han elevado sus precios notablemente y las estilistas de pronto noto ya no se ven contentas como antes las veía … algo que se nota espero estar equivocada…\nBendiciones",
+    "language": "es",
+    "postDate": "Editado Hace 11 meses",
+    "postedBy": {
+      "name": "Mony",
+      "url": "https://www.google.com/maps/contrib/105723513604471759338?hl=es-419",
+      "title": "Local Guide",
+      "totalReviews": 20
+    },
+    "media": [
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmNIOJ679VT4k67TQN_r-ZEoe7HytCUCEvMhCHY7QeoCGhVUgFs7mR1lavIrBDdGFzxl0IuviQyUuBkleyR9CSL9ltQVd_LALvcHI41CBKOKmeuukFJ_RDKS1c-BVkqloD3rDXJr=k-no",
+        "postDate": "Hace 3 años"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Dila&query_place_id=ChIJbUeKNYeGzoYR1DEiZJJlkgc",
+  "searchString": "place_id:ChIJbUeKNYeGzoYR1DEiZJJlkgc",
+  "language": "es",
+  "inputPlaceId": "ChIJbUeKNYeGzoYR1DEiZJJlkgc",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJbUeKNYeGzoYR1DEiZJJlkgc&query_place_id=ChIJbUeKNYeGzoYR1DEiZJJlkgc",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMhLWkD2KIB3s_jxSagv3dXZaoUHU0zkaskg50bzB_qFWk2xhCooC9WE2QyaqfK1I_ICgwD0t4RMIUgEa-La4xjiVnxQpvFeiNOvjT7VdrUkxcZJspZxzh7yKdXfg9KAktPQW_G0NWjzD0=w408-h306-k-no",
+  "kgmid": "/g/1ptzkcvgs",
+  "businessProfileId": null,
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Plaza Lucero",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Centro comercial",
+  "address": "Blvd. Luis Donaldo Colosio Murrieta, 83224 Hermosillo, Son., México",
+  "neighborhood": null,
+  "street": "Blvd. Luis Donaldo Colosio Murrieta",
+  "city": "Hermosillo",
+  "postalCode": null,
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "+52 662 118 4482",
+  "phoneUnformatted": "+526621184482",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 29.0821093,
+    "lng": -111.0186898
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "3XJJ+RG Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ7fmSojGDzoYR57U378u7YOI",
+  "categories": [
+    "Centro comercial"
+  ],
+  "fid": "0x86ce8331a292f9ed:0xe260bbcbef37b5e7",
+  "cid": "16312244334902097383",
+  "reviewsCount": 216,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 1,
+    "threeStar": 15,
+    "fourStar": 47,
+    "fiveStar": 150
+  },
+  "imagesCount": 49,
+  "imageCategories": [
+    "Todas",
+    "Interior",
+    "Vídeos",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-22T20:35:48.986Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Más concurrido de lo habitual",
+  "popularTimesLivePercent": 100,
+  "popularTimesHistogram": {
+    "Su": [],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 94
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 97
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 98
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 99
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 97
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "11 AM to 6 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "10 AM to 8 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "Plaza lucero",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Estacionamiento de Plaza Lucero",
+      "reviewsCount": 2,
+      "totalScore": 5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Casa Lucero",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "También se buscó",
+      "title": "plaza comercial",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza Comercial La Borbolla",
+      "reviewsCount": 34,
+      "totalScore": 4.6
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 5
+    },
+    {
+      "title": "Ropa",
+      "count": 8
+    },
+    {
+      "title": "Zapatos",
+      "count": 2
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 14
+    },
+    {
+      "title": "Otra",
+      "count": 15
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "estacionamiento",
+      "count": 15
+    },
+    {
+      "title": "sushi",
+      "count": 3
+    },
+    {
+      "title": "negocio",
+      "count": 3
+    },
+    {
+      "title": "estética",
+      "count": 2
+    },
+    {
+      "title": "una",
+      "count": 2
+    },
+    {
+      "title": "ropa",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "Barbería plaza lucero",
+    "language": "es",
+    "postDate": "Hace 4 meses",
+    "postedBy": {
+      "name": "Ramon Cornejo",
+      "url": "https://www.google.com/maps/contrib/104757848395184888203?hl=es-419",
+      "title": null,
+      "totalReviews": 1
+    },
+    "media": [
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmO2Wvb1CRaMyAsem6LruIU-9bIcLh8_NtdR5VeEAvZ0DT-YS6c0Ns9H53884o0nSw-Awu-t1160W_TIo4RaIBYjTMSQUrnVY63w2QxWwCs5ZCtcP-PXlReT2edWFpMl7Jhbo687XjHyb04p=k-no",
+        "postDate": "Hace 4 meses"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Lucero&query_place_id=ChIJ7fmSojGDzoYR57U378u7YOI",
+  "searchString": "place_id:ChIJ7fmSojGDzoYR57U378u7YOI",
+  "language": "es",
+  "inputPlaceId": "ChIJ7fmSojGDzoYR57U378u7YOI",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJ7fmSojGDzoYR57U378u7YOI&query_place_id=ChIJ7fmSojGDzoYR57U378u7YOI",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWliWX-xkeNpNzZhlLxPvw5fzgVicQX2uItzq3pkjRuJB9BTxRAbzbxA35YzHYyzdrSztt1bpHKGrzM737tHGFNEdQ9yv8Q6UIPLb0bsUBHFMYKZ_MhRV0oE66VOJaKhVPhMbEEp=w408-h905-k-no",
+  "kgmid": "/g/11flfd0479",
+  "businessProfileId": null,
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Plaza Las Palmas",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Centro comercial",
+  "address": "Luis Donaldo Colosio 785, Villa de Parras, 83224 Hermosillo, Son., México",
+  "neighborhood": "Villa de Parras",
+  "street": "Luis Donaldo Colosio 785",
+  "city": "Hermosillo",
+  "postalCode": "83224",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "+52 662 264 1614",
+  "phoneUnformatted": "+526622641614",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.0826021,
+    "lng": -111.0088916
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "3XMR+2C Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJBZEaxkiiXRQRtDS8IHiXkWs",
+  "categories": [
+    "Centro comercial"
+  ],
+  "fid": "0x145da248c61a9105:0x6b91977820bc34b4",
+  "cid": "7751142975882409140",
+  "reviewsCount": 195,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 5,
+    "threeStar": 17,
+    "fourStar": 49,
+    "fiveStar": 124
+  },
+  "imagesCount": 25,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-22T20:35:49.478Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "9 AM to 8 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 8 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 4
+    },
+    {
+      "title": "Ropa",
+      "count": 5
+    },
+    {
+      "title": "Zapatos",
+      "count": 2
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 4
+    },
+    {
+      "title": "Casa y cocina",
+      "count": 1
+    },
+    {
+      "title": "Joyas",
+      "count": 1
+    },
+    {
+      "title": "Juguetes y deportes",
+      "count": 1
+    },
+    {
+      "title": "Otra",
+      "count": 16
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "estacionamiento",
+      "count": 7
+    },
+    {
+      "title": "ferretería",
+      "count": 2
+    },
+    {
+      "title": "agua",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Las%20Palmas&query_place_id=ChIJBZEaxkiiXRQRtDS8IHiXkWs",
+  "searchString": "place_id:ChIJBZEaxkiiXRQRtDS8IHiXkWs",
+  "language": "es",
+  "inputPlaceId": "ChIJBZEaxkiiXRQRtDS8IHiXkWs",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJBZEaxkiiXRQRtDS8IHiXkWs&query_place_id=ChIJBZEaxkiiXRQRtDS8IHiXkWs",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5Ejxbqn__VT6jxzbHvH2gpyBDkC4X1E3u8xQdxgxHWAEq-GIqAayrvlmzKJyr05K_uPHpY5rwJZmGVW96rq-o1koOk2f-dYQ4X1g2zMf8piDwhQtwVp4xSIaudRrT4CY8PLHEbKa_-RGM=w408-h543-k-no",
+  "kgmid": "/g/11b7fvr5hj",
+  "businessProfileId": null,
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "El Guardián Gasolineras PERINORTE",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Gasolinera",
+  "price": null,
+  "categoryName": "Gasolinera",
+  "address": "Av. Esteban Baca Calderón s/n, Jesus Garcia, 83140 Hermosillo, Son., México",
+  "neighborhood": "Jesus Garcia",
+  "street": "Av. Esteban Baca Calderón s/n",
+  "city": "Hermosillo",
+  "postalCode": "83140",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "+52 662 216 5300",
+  "phoneUnformatted": "+526622165300",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.109097,
+    "lng": -110.956661
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "425V+J8 Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJC7_Z9IGGzoYR0ygHtnp06sc",
+  "categories": [
+    "Gasolinera"
+  ],
+  "fid": "0x86ce8681f4d9bf0b:0xc7ea747ab60728d3",
+  "cid": "14405454428486707411",
+  "reviewsCount": 130,
+  "reviewsDistribution": {
+    "oneStar": 11,
+    "twoStar": 5,
+    "threeStar": 16,
+    "fourStar": 28,
+    "fiveStar": 70
+  },
+  "imagesCount": 7,
+  "imageCategories": [
+    "Todas",
+    "Exterior",
+    "Estación de servicio",
+    "Surtidor de combustible",
+    "Del propietario",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-22T20:35:50.123Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Ahora: Por lo general, está un poco concurrido",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 4,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 5
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 6
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 4,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 15
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 4,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 8
+      }
+    ],
+    "We": [
+      {
+        "hour": 4,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 5
+      }
+    ],
+    "Th": [
+      {
+        "hour": 4,
+        "occupancyPercent": 9
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 6
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 4,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 94
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 7
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 6
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 4,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 5,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 6,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 15
+      },
+      {
+        "hour": 1,
+        "occupancyPercent": 10
+      },
+      {
+        "hour": 2,
+        "occupancyPercent": 6
+      },
+      {
+        "hour": 3,
+        "occupancyPercent": 8
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "miércoles",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "jueves",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "viernes",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "sábado",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "domingo",
+      "hours": "Abierto las 24 horas"
+    },
+    {
+      "day": "lunes",
+      "hours": "Abierto las 24 horas"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "El Guardián Gasolineras TICO",
+      "reviewsCount": 237,
+      "totalScore": 4.3
+    },
+    {
+      "category": "También se buscó",
+      "title": "El Guardián Gasolineras CENTENARIO",
+      "reviewsCount": 15,
+      "totalScore": 3.4
+    },
+    {
+      "category": "También se buscó",
+      "title": "El Guardián Gasolineras CONTRERAS",
+      "reviewsCount": 35,
+      "totalScore": 3.9
+    },
+    {
+      "category": "También se buscó",
+      "title": "El Guardian Gasolineras Padre Kino",
+      "reviewsCount": 403,
+      "totalScore": 4
+    },
+    {
+      "category": "También se buscó",
+      "title": "El Guardián Gasolineras ARCOS",
+      "reviewsCount": 1,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "precio",
+      "count": 11
+    },
+    {
+      "title": "trabajo",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ],
+    "Qué ofrece": [
+      {
+        "Combustible diésel": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Bomba de aire": true
+      },
+      {
+        "Sanitario": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      },
+      {
+        "Tarjetas de crédito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=El%20Guardi%C3%A1n%20Gasolineras%20PERINORTE&query_place_id=ChIJC7_Z9IGGzoYR0ygHtnp06sc",
+  "searchString": "place_id:ChIJC7_Z9IGGzoYR0ygHtnp06sc",
+  "language": "es",
+  "inputPlaceId": "ChIJC7_Z9IGGzoYR0ygHtnp06sc",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJC7_Z9IGGzoYR0ygHtnp06sc&query_place_id=ChIJC7_Z9IGGzoYR0ygHtnp06sc",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWktISxJuemabaRna1R6bS8_nLhCnn3SYgOe78EVJvBeEBTdOwcGzxP4hQqUYz0dCTN8MgzS7eXpSXpuShQNIIHVVyL7bLRRih04coRN8oNQGdheEXsuZUTbfmD-IMWwYF0EWlg=w408-h307-k-no",
+  "kgmid": "/g/1tjwj5lk",
+  "businessProfileId": "2178767543029485660",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Plaza Galicia",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Centro comercial",
+  "address": "Blvd. Luis Donaldo Colosio Murrieta 858, 83224 Hermosillo, Son., México",
+  "neighborhood": null,
+  "street": "Blvd. Luis Donaldo Colosio Murrieta 858",
+  "city": "Hermosillo",
+  "postalCode": null,
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 29.0820074,
+    "lng": -111.0240757
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "3XJG+R9 Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ6bQzQsKDzoYRTMv9TdtPWIY",
+  "categories": [
+    "Centro comercial"
+  ],
+  "fid": "0x86ce83c24233b4e9:0x86584fdb4dfdcb4c",
+  "cid": "9680575202357791564",
+  "reviewsCount": 468,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 2,
+    "threeStar": 37,
+    "fourStar": 102,
+    "fiveStar": 321
+  },
+  "imagesCount": 51,
+  "imageCategories": [
+    "Todas",
+    "Interior",
+    "Alimento",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-22T20:35:52.076Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Ahora: Por lo general, está un poco concurrido",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 17
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 99
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "8 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "Estacionamiento de Plaza Galicia",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza Quiroga",
+      "reviewsCount": 4162,
+      "totalScore": 4.4
+    },
+    {
+      "category": "También se buscó",
+      "title": "plaza Gales",
+      "reviewsCount": 4,
+      "totalScore": 3.5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza Catalunya",
+      "reviewsCount": 19,
+      "totalScore": 4.5
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 4
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 5
+    },
+    {
+      "title": "Otra",
+      "count": 5
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "estacionamiento",
+      "count": 13
+    },
+    {
+      "title": "carnes",
+      "count": 11
+    },
+    {
+      "title": "farmacia",
+      "count": 9
+    },
+    {
+      "title": "café",
+      "count": 4
+    },
+    {
+      "title": "ambiente",
+      "count": 2
+    },
+    {
+      "title": "negocios",
+      "count": 2
+    },
+    {
+      "title": "precio",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Galicia&query_place_id=ChIJ6bQzQsKDzoYRTMv9TdtPWIY",
+  "searchString": "place_id:ChIJ6bQzQsKDzoYRTMv9TdtPWIY",
+  "language": "es",
+  "inputPlaceId": "ChIJ6bQzQsKDzoYRTMv9TdtPWIY",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJ6bQzQsKDzoYRTMv9TdtPWIY&query_place_id=ChIJ6bQzQsKDzoYRTMv9TdtPWIY",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlSGVdms5P4vSEgjKjytb79HjRyfQG9ai_8f3oeGLD-s7sUSaAL551OiKJFn2wvNFIgLBvWw9K93EvM9Lfufsq4bSEarAni1JCjRCLfaMrkb8EGudCtVyD4LSEVt5epmscMGCvcWKrbDG4T=w408-h544-k-no",
+  "kgmid": "/g/11ddx175xj",
+  "businessProfileId": null,
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Soliplaza",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Una plaza comercial ubicada en unos de los cruceros mas dinamicos e importantes de Hermosillo. Donde nuestro clientes pueden localizar mas de 20 servicios, tienda de conveniencia, servcios publicos, gasolina, dentista, farmacia y mucho mas.",
+  "price": null,
+  "categoryName": "Centro comercial",
+  "address": "Blvd. Progreso 628, Solidaridad, 83116 Hermosillo, Son., México",
+  "neighborhood": "Solidaridad",
+  "street": "Blvd. Progreso 628",
+  "city": "Hermosillo",
+  "postalCode": "83116",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "https://www.facebook.com/elbochitoamarillo",
+  "phone": "+52 662 168 2947",
+  "phoneUnformatted": "+526621682947",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.1435153,
+    "lng": -110.9949951
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "42V4+C2 Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJg1Ual5yHzoYRiGx1-8T98U0",
+  "categories": [
+    "Centro comercial"
+  ],
+  "fid": "0x86ce879c971a5583:0x4df1fdc4fb756c88",
+  "cid": "5616549232781913224",
+  "reviewsCount": 397,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 5,
+    "threeStar": 50,
+    "fourStar": 81,
+    "fiveStar": 258
+  },
+  "imagesCount": 17,
+  "imageCategories": [
+    "Todas",
+    "Del propietario",
+    "Vídeos",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-22T20:35:53.787Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Un poco concurrido",
+  "popularTimesLivePercent": 70,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 99
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 98
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 94
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 94
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 97
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 96
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "7 AM to 10:30 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "7 AM to 10:30 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "7 AM to 10:30 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "7 AM to 10:30 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "7 AM to 10:30 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "7 AM to 10:30 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "7 AM to 10:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "PLAZA DE LA SOLIDARIDAD",
+      "reviewsCount": 503,
+      "totalScore": 4.5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza Solé",
+      "reviewsCount": 32,
+      "totalScore": 4.7
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza Progreso",
+      "reviewsCount": 270,
+      "totalScore": 4.5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza Girasol",
+      "reviewsCount": 6304,
+      "totalScore": 4.4
+    },
+    {
+      "category": "También se buscó",
+      "title": "Paseo Solidaridad",
+      "reviewsCount": 5,
+      "totalScore": 1.8
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 3
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 5
+    },
+    {
+      "title": "Casa y cocina",
+      "count": 1
+    },
+    {
+      "title": "Electrónica",
+      "count": 1
+    },
+    {
+      "title": "Otra",
+      "count": 3
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "agua",
+      "count": 4
+    },
+    {
+      "title": "estacionamiento",
+      "count": 4
+    },
+    {
+      "title": "comida china",
+      "count": 3
+    },
+    {
+      "title": "dentista",
+      "count": 2
+    },
+    {
+      "title": "pagar",
+      "count": 2
+    },
+    {
+      "title": "negocios",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Soliplaza&query_place_id=ChIJg1Ual5yHzoYRiGx1-8T98U0",
+  "searchString": "place_id:ChIJg1Ual5yHzoYRiGx1-8T98U0",
+  "language": "es",
+  "inputPlaceId": "ChIJg1Ual5yHzoYRiGx1-8T98U0",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJg1Ual5yHzoYRiGx1-8T98U0&query_place_id=ChIJg1Ual5yHzoYRiGx1-8T98U0",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmzBc0zACv4bIqZ6eMidBYD-Uy80EhNa1HJCMXhZYYlCztGyVxhrldGUIy16BWvQtHgas4fAqtwEXrrlvrCQJqfqncpgCYBuyliwBD-QP0M743skT42HsoDkFiZEiW9M-R56HI8=w408-h283-k-no",
+  "kgmid": "/g/11f5tb42_g",
+  "businessProfileId": "4079664451840921755",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Walmart",
+  "subTitle": null,
+  "description": "Cadena minorista en la que se venden comestibles, ropa, aparatos electrónicos y artículos para el hogar.",
+  "ownerDescription": "Walmart en Hermosillo, Son., México (C.P. 83145). Ubicado en Blvd José María Morelos 355. Encuentra despensa, hogar, electrónica y artículos de uso diario. Consulta en el perfil horarios y servicios disponibles en esta sucursal.",
+  "price": null,
+  "categoryName": "Tienda de alimentación",
+  "address": "Kiosco SC, Boulevard José María Morelos 355, Bulevar José María Morelos 3030, 83145 Hermosillo, Son., México",
+  "neighborhood": "Zona Militar",
+  "street": "Kiosco SC, Boulevard José María Morelos 355, Bulevar José María Morelos 3030",
+  "city": "Hermosillo",
+  "postalCode": "83145",
+  "state": "Son.",
+  "countryCode": "MX",
+  "website": "https://www.walmart.com.mx/?utm_source=google&utm_medium=organic_search&utm_campaign=wm_uf_traffic_onsite_seo-local",
+  "phone": "+52 800 000 0022",
+  "phoneUnformatted": "+528000000022",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.1218511,
+    "lng": -110.9498515
+  },
+  "locatedIn": "City Center PITIC",
+  "floor": null,
+  "plusCode": "43C2+P3 Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJlT_mkmKGzoYR4Z3kjt4G_TU",
+  "categories": [
+    "Tienda de alimentación"
+  ],
+  "fid": "0x86ce866292e63f95:0x35fd06de8ee49de1",
+  "cid": "3890273206067830241",
+  "reviewsCount": 5890,
+  "reviewsDistribution": {
+    "oneStar": 168,
+    "twoStar": 93,
+    "threeStar": 371,
+    "fourStar": 1291,
+    "fiveStar": 3967
+  },
+  "imagesCount": 922,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-22T20:35:54.495Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "8 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 1
+    },
+    {
+      "title": "Compras",
+      "count": 1
+    },
+    {
+      "title": "Servicios",
+      "count": 2
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "surtido",
+      "count": 158
+    },
+    {
+      "title": "cajas",
+      "count": 82
+    },
+    {
+      "title": "ropa",
+      "count": 20
+    },
+    {
+      "title": "organizado",
+      "count": 18
+    },
+    {
+      "title": "plaza",
+      "count": 17
+    },
+    {
+      "title": "electrónica",
+      "count": 15
+    },
+    {
+      "title": "batalla",
+      "count": 10
+    },
+    {
+      "title": "distribución",
+      "count": 8
+    },
+    {
+      "title": "cajones",
+      "count": 6
+    },
+    {
+      "title": "encuentro",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Walmart&query_place_id=ChIJlT_mkmKGzoYR4Z3kjt4G_TU",
+  "searchString": "place_id:ChIJlT_mkmKGzoYR4Z3kjt4G_TU",
+  "language": "es",
+  "inputPlaceId": "ChIJlT_mkmKGzoYR4Z3kjt4G_TU",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJlT_mkmKGzoYR4Z3kjt4G_TU&query_place_id=ChIJlT_mkmKGzoYR4Z3kjt4G_TU",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMSKDSY7FSv-uhnV-oFBG40wxp6_NUUs6Cew-oeNsLNg9yXoVSnR51QXi_DX3Ruus6QtvpgG84fYAqsqQGfHqOTSUaZ5dvEEgPpZsBBXSeFyTZ3kjL4GAa6q79NatQy91oAPaXzyINv4sUp=w408-h306-k-no",
+  "kgmid": "/g/1w96h58s",
+  "businessProfileId": "11739670383508202571",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Walmart",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Walmart en Hermosillo, Son., México (C.P. 83210). Ubicado en Blvd Luis Donaldo Colosio 867. Encuentra despensa, hogar, electrónica y artículos de uso diario. Consulta en el perfil horarios y servicios disponibles en esta sucursal.",
+  "price": null,
+  "categoryName": "Tienda de alimentación",
+  "address": "Blvd. Luis Donaldo Colosio Murrieta 867, El Llano, 83210 Hermosillo, Son., México",
+  "neighborhood": "El Llano",
+  "street": "Blvd. Luis Donaldo Colosio Murrieta 867",
+  "city": "Hermosillo",
+  "postalCode": "83210",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "https://www.walmart.com.mx/?utm_source=google&utm_medium=organic_search&utm_campaign=wm_uf_traffic_onsite_seo-local",
+  "phone": "+52 800 000 0022",
+  "phoneUnformatted": "+528000000022",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.083139,
+    "lng": -111.021478
+  },
+  "locatedIn": "Supermercado",
+  "floor": null,
+  "plusCode": "3XMH+7C Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ3SqQ2-mDzoYRQQhT-k0oq58",
+  "categories": [
+    "Tienda de alimentación"
+  ],
+  "fid": "0x86ce83e9db902add:0x9fab284dfa530841",
+  "cid": "11505333988425402433",
+  "reviewsCount": 5975,
+  "reviewsDistribution": {
+    "oneStar": 160,
+    "twoStar": 85,
+    "threeStar": 427,
+    "fourStar": 1402,
+    "fiveStar": 3901
+  },
+  "imagesCount": 1588,
+  "imageCategories": [
+    "Todas",
+    "Interior",
+    "Vídeos",
+    "Alimento",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-22T20:35:55.040Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Un poco concurrido",
+  "popularTimesLivePercent": 55,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "8 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "Walmart",
+      "reviewsCount": 371,
+      "totalScore": 4.5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Walmart Wash",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Costco Wholesale Hermosillo",
+      "reviewsCount": 15245,
+      "totalScore": 4.6
+    },
+    {
+      "category": "También se buscó",
+      "title": "Bodega Aurrera",
+      "reviewsCount": 2459,
+      "totalScore": 4.2
+    },
+    {
+      "category": "También se buscó",
+      "title": "Sam's Club",
+      "reviewsCount": 6989,
+      "totalScore": 4.5
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 2
+    },
+    {
+      "title": "Compras",
+      "count": 3
+    },
+    {
+      "title": "Servicios",
+      "count": 4
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 2
+    },
+    {
+      "title": "Otra",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "surtido",
+      "count": 187
+    },
+    {
+      "title": "cajas",
+      "count": 126
+    },
+    {
+      "title": "estacionamiento",
+      "count": 103
+    },
+    {
+      "title": "ofertas",
+      "count": 49
+    },
+    {
+      "title": "ordenado",
+      "count": 25
+    },
+    {
+      "title": "área",
+      "count": 24
+    },
+    {
+      "title": "electrónica",
+      "count": 12
+    },
+    {
+      "title": "filas",
+      "count": 10
+    },
+    {
+      "title": "río",
+      "count": 6
+    },
+    {
+      "title": "sombra",
+      "count": 6
+    }
+  ],
+  "additionalInfo": {
+    "Opciones de servicio": [
+      {
+        "Entrega sin contacto": true
+      },
+      {
+        "Entrega a domicilio": true
+      },
+      {
+        "Servicios en el lugar": true
+      }
+    ],
+    "Aspectos destacados": [
+      {
+        "Buenos productos frescos": true
+      }
+    ],
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ],
+    "Qué ofrece": [
+      {
+        "Comida": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Planificación": [
+      {
+        "Visita rápida": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ],
+    "Estacionamiento": [
+      {
+        "Estacionamiento en el lugar": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "Exterior",
+    "language": "en",
+    "postDate": "Hace 3 años",
+    "postedBy": {
+      "name": "Edgar Espinoza",
+      "url": "https://www.google.com/maps/contrib/110083119574999702312?hl=es-419",
+      "title": "Local Guide",
+      "totalReviews": 167
+    },
+    "media": [
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmP81EOKsz7GvmriRtKnZ3Is_nzTdpyU8g3EYP6AxATQL1cV6DJSjYccyB8qJPMkax4TMU4HkHw8yloRw8aov0ma99R5MSkgkhA_xEuX5ltZiL9ObdDZsd4RQLVYq-BqmYgW2WF5=k-no",
+        "postDate": "Hace 3 años"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmNZW1Sm61YZ5q-wvx0T9Hja90zcIw04iavaFC34BGwyerGOkETEV7eouP079GdiiAOv-l2EG7L5tjP1dSdT-vHecH9LbVjjgTBT6lg6NKi_oNof3IXj11Dnc7GSvbewrTikdiIuBg=k-no",
+        "postDate": "Hace 3 años"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Walmart&query_place_id=ChIJ3SqQ2-mDzoYRQQhT-k0oq58",
+  "searchString": "place_id:ChIJ3SqQ2-mDzoYRQQhT-k0oq58",
+  "language": "es",
+  "inputPlaceId": "ChIJ3SqQ2-mDzoYRQQhT-k0oq58",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJ3SqQ2-mDzoYRQQhT-k0oq58&query_place_id=ChIJ3SqQ2-mDzoYRQQhT-k0oq58",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMZ0v3FdY9EQe1fYaNXdGclwirRxNSbC6iDwt5NN10bkUtWlmkYkk8uDwLeAo6wl9X5Kmtr14QCAp3zqIvDAPLGDeJU1b8lnicZJy7_OCoV71UCuGilk3Xhmq0R2TJbCCt6KxTbciygcP3O=w408-h267-k-no",
+  "kgmid": "/g/1pp2vhr22",
+  "businessProfileId": "9972525265428740527",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Carrera Car Wash Quiroga",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Bienvenido a Carrera Carwash, donde transformamos la limpieza de tu auto en tan solo 3 minutos, vive una experiencia rápida, eficiente y placentera.",
+  "price": null,
+  "categoryName": "Autoservicio de lavado de autos",
+  "address": "Blvd. Dr. Antonio Quiroga. 8 Sur, 1 Area B, Quinta Emilia, 83214 Hermosillo, Son., México",
+  "neighborhood": "Quinta Emilia",
+  "street": "Blvd. Dr. Antonio Quiroga. 8 Sur, 1 Area B, LT Porcion",
+  "city": "Hermosillo",
+  "postalCode": "83214",
+  "state": "Son.",
+  "countryCode": "MX",
+  "phone": "+52 662 688 8700",
+  "phoneUnformatted": "+526626888700",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.0949203,
+    "lng": -111.0228837
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "3XVG+XR Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ68CRBbqDzoYRKMD2QmzVYRw",
+  "categories": [
+    "Autoservicio de lavado de autos"
+  ],
+  "fid": "0x86ce83ba0591c0eb:0x1c61d56c42f6c028",
+  "cid": "2045150366759567400",
+  "reviewsCount": 163,
+  "reviewsDistribution": {
+    "oneStar": 34,
+    "twoStar": 6,
+    "threeStar": 7,
+    "fourStar": 19,
+    "fiveStar": 97
+  },
+  "imagesCount": 45,
+  "imageCategories": [
+    "Todas",
+    "Exterior",
+    "Vídeos",
+    "Del propietario",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-22T20:35:57.615Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Poco concurrido",
+  "popularTimesLivePercent": 47,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 99
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 16
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "7 AM to 9 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "7 AM to 9 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "7 AM to 9 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "7 AM to 9 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "7 AM to 9 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "7 AM to 9 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "7 AM to 9 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "Más Car Wash (Suc. Quiroga)",
+      "reviewsCount": 257,
+      "totalScore": 3.2
+    },
+    {
+      "category": "También se buscó",
+      "title": "Mr. Wash - Sucursal Quiroga",
+      "reviewsCount": 8,
+      "totalScore": 2.5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Car Wash",
+      "reviewsCount": 10,
+      "totalScore": 4.2
+    },
+    {
+      "category": "También se buscó",
+      "title": "Car Wash AV",
+      "reviewsCount": 2,
+      "totalScore": 3
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "aspiradoras",
+      "count": 13
+    },
+    {
+      "title": "carro",
+      "count": 11
+    },
+    {
+      "title": "trapo",
+      "count": 9
+    },
+    {
+      "title": "máquina",
+      "count": 7
+    },
+    {
+      "title": "llantas",
+      "count": 7
+    },
+    {
+      "title": "costo",
+      "count": 6
+    },
+    {
+      "title": "pagar",
+      "count": 6
+    },
+    {
+      "title": "práctico",
+      "count": 5
+    },
+    {
+      "title": "área",
+      "count": 5
+    },
+    {
+      "title": "máquina expendedora",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "Aceptan pagos con tarjetas 😁",
+    "language": "es",
+    "postDate": "Hace 2 años",
+    "postedBy": {
+      "name": "Esteban Terrazas",
+      "url": "https://www.google.com/maps/contrib/109736418502402872625?hl=es-419",
+      "title": "Local Guide",
+      "totalReviews": 284
+    },
+    "media": [
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmMUWlT8uWfFGuNN_PcKsbWXOrkEbDZB_mRAHk4BtYINr1p0kih8isUhOnhU6sdkWWvjr-37IK0io8WwA6ZbkFwtjRdrYrZ3RgGCfx96fZKkE48iTXg2K43f3NFyzrxPn83V4NYp=k-no",
+        "postDate": "Hace 2 años"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Carrera%20Car%20Wash%20Quiroga&query_place_id=ChIJ68CRBbqDzoYRKMD2QmzVYRw",
+  "searchString": "place_id:ChIJ68CRBbqDzoYRKMD2QmzVYRw",
+  "language": "es",
+  "inputPlaceId": "ChIJ68CRBbqDzoYRKMD2QmzVYRw",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJ68CRBbqDzoYRKMD2QmzVYRw&query_place_id=ChIJ68CRBbqDzoYRKMD2QmzVYRw",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnA6w0tPqNhJ4OAeGnoyFrjQrhL4NfWDLyj3LlEx-2X-zj6hySEAg5l0bUM1u9mdHdn_fYfOQkmwtBWMZp7mj3Hr7poWXZUbEGEai8A-Gvgfk6c3aDEgrAza4_1OsbyxfMV25Vh8lShCAvg=w426-h240-k-no",
+  "kgmid": "/g/11l70v52bv",
+  "businessProfileId": "14892423629170389521",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Mas Car Wash (Suc. Morelos)",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Servicio de lavado de coches",
+  "address": "Bulevar José María Morelos, Colina 724, Bachoco, 83148 Hermosillo, Son., México",
+  "neighborhood": "Bachoco",
+  "street": "Bulevar José María Morelos, Colina 724",
+  "city": "Hermosillo",
+  "postalCode": "83148",
+  "state": "Son.",
+  "countryCode": "MX",
+  "website": "https://www.facebook.com/MAS-CAR-WASH-1695765310646317/",
+  "phone": "+52 662 284 7358",
+  "phoneUnformatted": "+526622847358",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.134822,
+    "lng": -110.953485
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "42MW+WJ Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ8zWWyvWGzoYRCmFCXMOu6iE",
+  "categories": [
+    "Servicio de lavado de coches"
+  ],
+  "fid": "0x86ce86f5ca9635f3:0x21eaaec35c42610a",
+  "cid": "2443957901891625226",
+  "reviewsCount": 509,
+  "reviewsDistribution": {
+    "oneStar": 61,
+    "twoStar": 13,
+    "threeStar": 39,
+    "fourStar": 100,
+    "fiveStar": 296
+  },
+  "imagesCount": 97,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-22T20:35:57.844Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "9 AM to 6 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "carro",
+      "count": 37
+    },
+    {
+      "title": "precio",
+      "count": 21
+    },
+    {
+      "title": "trabajo",
+      "count": 19
+    },
+    {
+      "title": "máquinas",
+      "count": 10
+    },
+    {
+      "title": "rapidez",
+      "count": 7
+    },
+    {
+      "title": "aspirado",
+      "count": 6
+    },
+    {
+      "title": "vidrios",
+      "count": 5
+    },
+    {
+      "title": "secado",
+      "count": 5
+    },
+    {
+      "title": "área",
+      "count": 5
+    },
+    {
+      "title": "casa",
+      "count": 5
+    }
+  ],
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Mas%20Car%20Wash%20(Suc.%20Morelos)&query_place_id=ChIJ8zWWyvWGzoYRCmFCXMOu6iE",
+  "searchString": "place_id:ChIJ8zWWyvWGzoYRCmFCXMOu6iE",
+  "language": "es",
+  "inputPlaceId": "ChIJ8zWWyvWGzoYRCmFCXMOu6iE",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJ8zWWyvWGzoYRCmFCXMOu6iE&query_place_id=ChIJ8zWWyvWGzoYRCmFCXMOu6iE",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7-4BnienHQUblbsYdbNH9lEXCliVhxLLNQL2wmPTzE4cmvIosO02-G94od0QRBumrgaI-SUs_d-3xkYU9gDiqczRPIr6oHrV3RWdxUau_xeknIzQQcuw0QnAiyzSt78ARvMhhIg=w836-h240-k-no",
+  "kgmid": "/g/11cnl91l_d",
+  "businessProfileId": "8279663822549534738",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Plaza Girasol",
+  "subTitle": null,
+  "description": "Centro comercial alegre con gran variedad de tiendas especializadas, servicios locales y restaurantes informales.",
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Centro comercial",
+  "address": "Blvd. Solidaridad 56, Sahuaro, 83171 Hermosillo, Son., México",
+  "neighborhood": "Sahuaro",
+  "street": "Blvd. Solidaridad 56",
+  "city": "Hermosillo",
+  "postalCode": "83171",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "http://www.plazagirasol.com/",
+  "phone": "+52 662 218 2222",
+  "phoneUnformatted": "+526622182222",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 29.0999964,
+    "lng": -110.9933406
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "32X4+XM Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJtS8_lwGEzoYRjNxz0lM1ops",
+  "categories": [
+    "Centro comercial"
+  ],
+  "fid": "0x86ce8401973f2fb5:0x9ba23553d273dc8c",
+  "cid": "11214584656235322508",
+  "reviewsCount": 6304,
+  "reviewsDistribution": {
+    "oneStar": 160,
+    "twoStar": 142,
+    "threeStar": 628,
+    "fourStar": 1525,
+    "fiveStar": 3849
+  },
+  "imagesCount": 1376,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-22T20:35:58.236Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "7 AM to 9 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "7 AM to 9 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "7 AM to 9 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "7 AM to 9 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "7 AM to 9 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "7 AM to 9 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "7 AM to 9 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 12
+    },
+    {
+      "title": "Ropa",
+      "count": 2
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 9
+    },
+    {
+      "title": "Casa y cocina",
+      "count": 3
+    },
+    {
+      "title": "Electrónica",
+      "count": 1
+    },
+    {
+      "title": "Otra",
+      "count": 29
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "estacionamiento",
+      "count": 504
+    },
+    {
+      "title": "seguridad",
+      "count": 69
+    },
+    {
+      "title": "casino",
+      "count": 58
+    },
+    {
+      "title": "seguro",
+      "count": 54
+    },
+    {
+      "title": "locales comerciales",
+      "count": 28
+    },
+    {
+      "title": "vigilancia",
+      "count": 21
+    },
+    {
+      "title": "movistar",
+      "count": 12
+    },
+    {
+      "title": "sombra",
+      "count": 11
+    },
+    {
+      "title": "caffenio",
+      "count": 6
+    },
+    {
+      "title": "bos mutus",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Girasol&query_place_id=ChIJtS8_lwGEzoYRjNxz0lM1ops",
+  "searchString": "place_id:ChIJtS8_lwGEzoYRjNxz0lM1ops",
+  "language": "es",
+  "inputPlaceId": "ChIJtS8_lwGEzoYRjNxz0lM1ops",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJtS8_lwGEzoYRjNxz0lM1ops&query_place_id=ChIJtS8_lwGEzoYRjNxz0lM1ops",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkBi0wa3hepgC0HNC-ygSDbhXgUwcl7F_Y2GZw5v65XrU1WNfB98UXKUmMRKlJOXspWeXkuV2Nbx53a_rtNpXy96L1Ffev1Yxq2YhCCbSq-7207ZykawlMNErTIFxeVUiOf6XuU=w408-h306-k-no",
+  "kgmid": "/g/1hf2n1w0m",
+  "businessProfileId": null,
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "CAR WASH MORELOS",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Soy el peor jefe que ahi grosero con mis empleados les robo su propina",
+  "price": null,
+  "categoryName": "Tienda general",
+  "address": "Bulevar José María Morelos, Loma Linda, 83150 Hermosillo, Son., México",
+  "neighborhood": "Loma Linda",
+  "street": "Bulevar José María Morelos",
+  "city": "Hermosillo",
+  "postalCode": "83150",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.1155131,
+    "lng": -110.9507745
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "428X+6M Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 3.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJNx2_XoeGzoYRLSA0rGYeSNQ",
+  "categories": [
+    "Tienda general"
+  ],
+  "fid": "0x86ce86875ebf1d37:0xd4481e66ac34202d",
+  "cid": "15296509560688484397",
+  "reviewsCount": 294,
+  "reviewsDistribution": {
+    "oneStar": 44,
+    "twoStar": 18,
+    "threeStar": 39,
+    "fourStar": 65,
+    "fiveStar": 128
+  },
+  "imagesCount": 60,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-22T20:36:00.581Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "8 AM to 7 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "carro",
+      "count": 29
+    },
+    {
+      "title": "vidrios",
+      "count": 9
+    },
+    {
+      "title": "trapo",
+      "count": 8
+    },
+    {
+      "title": "cajuela",
+      "count": 8
+    },
+    {
+      "title": "precio",
+      "count": 8
+    },
+    {
+      "title": "rapidez",
+      "count": 5
+    },
+    {
+      "title": "trabajo",
+      "count": 5
+    },
+    {
+      "title": "tapetes",
+      "count": 4
+    },
+    {
+      "title": "llantas",
+      "count": 3
+    },
+    {
+      "title": "tablero",
+      "count": 2
+    }
+  ],
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=CAR%20WASH%20MORELOS&query_place_id=ChIJNx2_XoeGzoYRLSA0rGYeSNQ",
+  "searchString": "place_id:ChIJNx2_XoeGzoYRLSA0rGYeSNQ",
+  "language": "es",
+  "inputPlaceId": "ChIJNx2_XoeGzoYRLSA0rGYeSNQ",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJNx2_XoeGzoYRLSA0rGYeSNQ&query_place_id=ChIJNx2_XoeGzoYRLSA0rGYeSNQ",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhF_CzoPe96Hi2in3SWU6PsAhLnGOBRqcAhj2ARAQklS41RRMKW1dqRHoGdrAo0bvB2uurkyOfrYf5jNVFRJhcIu-FWpmkAiLYgRetIAHKXK7YEuC9W5MUc3HQIWgVLbDKoVx3SGsNw6gvguVZPhr-Mwpdoh6pjBZypMVAhTjYRL0ACll0HSHY8c8pdg9o0UwpC4kyo=w408-h306-k-no",
+  "kgmid": "/g/11b7hwbffb",
+  "businessProfileId": "814203737624948854",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "MC AUTOCENTER CAR WASH",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "En MC Autocenter podrás encontrar los siguientes servicios para tu auto:\nLavado y Detallado.\nPolarizado Automotriz.\nAlarmas de Seguridad.\nAudio y Video.\nAccesorios 4x4.\n\nContamos con las mejores marcas:\n- 3M.\n- Pioneer.\n- Alarmas Autopage\n- Carbon Audio.\n- Suntek.\n- Nexfit.\n- Viper.\n- Rockford.\n- Wetsounds.",
+  "price": null,
+  "categoryName": "Servicio de lavado de coches",
+  "address": "Bulevar José María Morelos 691, Bachoco, 83148 Hermosillo, Son., México",
+  "neighborhood": "Bachoco",
+  "street": "Bulevar José María Morelos 691",
+  "city": "Hermosillo",
+  "postalCode": "83148",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "https://mcautocenter.com/",
+  "phone": "+52 662 213 8816",
+  "phoneUnformatted": "+526622138816",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.1324236,
+    "lng": -110.9520298
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "42JX+X5 Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ9S_1FPWGzoYRVleHI0y5pGc",
+  "categories": [
+    "Servicio de lavado de coches",
+    "Tienda de piezas de automóvil",
+    "Tienda de accesorios para automóviles",
+    "Proveedor de alarmas de coche",
+    "Autoservicio de lavado de autos",
+    "Servicio de polarización de ventanas"
+  ],
+  "fid": "0x86ce86f514f52ff5:0x67a4b94c23875756",
+  "cid": "7468297818751850326",
+  "reviewsCount": 318,
+  "reviewsDistribution": {
+    "oneStar": 33,
+    "twoStar": 20,
+    "threeStar": 30,
+    "fourStar": 68,
+    "fiveStar": 167
+  },
+  "imagesCount": 55,
+  "imageCategories": [
+    "Todas",
+    "Interior",
+    "Vídeos",
+    "Del propietario",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-22T20:36:02.115Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Ahora: Por lo general, está un poco concurrido",
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {
+    "Su": [],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 98
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 98
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 96
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 96
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 94
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 94
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "8 AM to 6 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "MC Autocenter CAR WASH",
+      "reviewsCount": 663,
+      "totalScore": 4.1
+    },
+    {
+      "category": "También se buscó",
+      "title": "Mas Car Wash (Suc. Morelos)",
+      "reviewsCount": 509,
+      "totalScore": 4.1
+    },
+    {
+      "category": "También se buscó",
+      "title": "MBAUTOSPA",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "También se buscó",
+      "title": "MC Multiservicios Automotriz",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 1
+    },
+    {
+      "title": "Compras",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "carro",
+      "count": 29
+    },
+    {
+      "title": "precio",
+      "count": 10
+    },
+    {
+      "title": "secado",
+      "count": 8
+    },
+    {
+      "title": "calidad",
+      "count": 8
+    },
+    {
+      "title": "vidrios",
+      "count": 7
+    },
+    {
+      "title": "máquina",
+      "count": 6
+    },
+    {
+      "title": "café",
+      "count": 6
+    },
+    {
+      "title": "trabajo",
+      "count": 6
+    },
+    {
+      "title": "joven",
+      "count": 4
+    },
+    {
+      "title": "sala de espera",
+      "count": 3
+    }
+  ],
+  "additionalInfo": {
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "Muy buen servicio y buen lugar",
+    "language": "es",
+    "postDate": "Hace un año",
+    "postedBy": {
+      "name": "juan rico",
+      "url": "https://www.google.com/maps/contrib/114123035785785604602?hl=es-419",
+      "title": "Local Guide",
+      "totalReviews": 4
+    },
+    "media": [
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmPeq1OHxYqaaHZugQrg7zjb4FsBT7i-DYcbw1KNRJpBfBQGlwevPhwZ7Fp0QuHeOVfXLR3kD8uP2D906XbGamKgdxZAiBAiDqO25nQE_DmRPLXdf_K-Xh3y3HvT8CAzIcXQolptWQ=k-no",
+        "postDate": "Hace un año"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=MC%20AUTOCENTER%20CAR%20WASH&query_place_id=ChIJ9S_1FPWGzoYRVleHI0y5pGc",
+  "searchString": "place_id:ChIJ9S_1FPWGzoYRVleHI0y5pGc",
+  "language": "es",
+  "inputPlaceId": "ChIJ9S_1FPWGzoYRVleHI0y5pGc",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJ9S_1FPWGzoYRVleHI0y5pGc&query_place_id=ChIJ9S_1FPWGzoYRVleHI0y5pGc",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWntzR_qGYZATQ7TLvxSxQixryCYlgdQea4qRu85tFkWMbqZsTL_4NkzchX9QrpY-BlyVdpa1Xv0DWgkuBlgQie6edguv6SzmDxv8eXsQtcC2grc8Lk2xs1wtm_RhNqP_PaN-fXs=w415-h240-k-no",
+  "kgmid": "/g/11byt8jy11",
+  "businessProfileId": "7357643112901923201",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "MR. WASH (SUCURSAL COLOSIO)",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "La mejor cadena de autolavados de Hermosillo cerca de tu hogar, contamos con diferentes ubicaciones (Colosio, Reforma y perimetral) acércate a nuestras ubicaciones y vive la gran experiencia de lavar tu auto en Mr Wash",
+  "price": null,
+  "categoryName": "Servicio de lavado de coches",
+  "address": "Blvd. Luis Donaldo Colosio Murrieta 858, 83224 Hermosillo, Son., México",
+  "neighborhood": null,
+  "street": "Blvd. Luis Donaldo Colosio Murrieta 858",
+  "city": "Hermosillo",
+  "postalCode": "83224",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "https://www.facebook.com/AUTOLAVADOMRWASH",
+  "phone": "+52 662 118 9404",
+  "phoneUnformatted": "+526621189404",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.0814844,
+    "lng": -111.0213289
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "3XJH+HF Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 2.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJtwXZbEiDzoYRM4Vym8k264k",
+  "categories": [
+    "Servicio de lavado de coches"
+  ],
+  "fid": "0x86ce83486cd905b7:0x89eb36c99b728533",
+  "cid": "9938097242247431475",
+  "reviewsCount": 162,
+  "reviewsDistribution": {
+    "oneStar": 75,
+    "twoStar": 17,
+    "threeStar": 16,
+    "fourStar": 16,
+    "fiveStar": 38
+  },
+  "imagesCount": 100,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-22T20:36:03.655Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "8 AM to 7 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "carro",
+      "count": 28
+    },
+    {
+      "title": "vidrios",
+      "count": 10
+    },
+    {
+      "title": "trabajo",
+      "count": 10
+    },
+    {
+      "title": "máquina",
+      "count": 9
+    },
+    {
+      "title": "trapo",
+      "count": 9
+    },
+    {
+      "title": "propina",
+      "count": 7
+    },
+    {
+      "title": "artesanal",
+      "count": 7
+    },
+    {
+      "title": "robaron",
+      "count": 6
+    },
+    {
+      "title": "pagar",
+      "count": 6
+    },
+    {
+      "title": "guantera",
+      "count": 5
+    }
+  ],
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=MR.%20WASH%20(SUCURSAL%20COLOSIO)&query_place_id=ChIJtwXZbEiDzoYRM4Vym8k264k",
+  "searchString": "place_id:ChIJtwXZbEiDzoYRM4Vym8k264k",
+  "language": "es",
+  "inputPlaceId": "ChIJtwXZbEiDzoYRM4Vym8k264k",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJtwXZbEiDzoYRM4Vym8k264k&query_place_id=ChIJtwXZbEiDzoYRM4Vym8k264k",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWktLGmjztN4r2cm9BTRQXRa3PpyiQQxRvmSPP_mPrtbcopJBsOsflQO0N8_nx6JMf6AyFkdLDT6dCBRH3fC8hfosnrEmTfo8Lg18TW6mXI-6M056sSgOsay74S8Z4A23zaSWODqfA=w426-h240-k-no",
+  "kgmid": "/g/11p_5vckg1",
+  "businessProfileId": "14183036754391169411",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "ULTRA car wash",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Servicio de lavado de coches",
+  "address": "Blvd. Juan Bautista de Escalante 436, El cortijo, 83115 Hermosillo, Son., México",
+  "neighborhood": "El cortijo",
+  "street": "Blvd. Juan Bautista de Escalante 436",
+  "city": "Hermosillo",
+  "postalCode": "83115",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "+52 662 149 1964",
+  "phoneUnformatted": "+526621491964",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.1451906,
+    "lng": -110.9841864
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "42W8+38 Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 3.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJNTvlktiHzoYR3A5L1FJYrF8",
+  "categories": [
+    "Servicio de lavado de coches"
+  ],
+  "fid": "0x86ce87d892e53b35:0x5fac5852d44b0edc",
+  "cid": "6893982242369638108",
+  "reviewsCount": 321,
+  "reviewsDistribution": {
+    "oneStar": 82,
+    "twoStar": 16,
+    "threeStar": 12,
+    "fourStar": 34,
+    "fiveStar": 177
+  },
+  "imagesCount": 127,
+  "imageCategories": [
+    "Todas",
+    "Más recientes",
+    "Vídeos",
+    "Exterior",
+    "Interior",
+    "Del propietario",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-22T20:36:08.509Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Poco concurrido",
+  "popularTimesLivePercent": 32,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 99
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 14
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 23
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "8 AM to 7 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "8 AM to 7 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "SQUALO LAVADO DETALLADO Y LLANTERA DE AUTOMOVILES",
+      "reviewsCount": 43,
+      "totalScore": 4.1
+    },
+    {
+      "category": "También se buscó",
+      "title": "La cuata car wash",
+      "reviewsCount": 110,
+      "totalScore": 4.4
+    },
+    {
+      "category": "También se buscó",
+      "title": "Luxury Carwash",
+      "reviewsCount": 4,
+      "totalScore": 5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Car wash a domicilio velez",
+      "reviewsCount": 4,
+      "totalScore": 5
+    },
+    {
+      "category": "También se buscó",
+      "title": "CarWash Hermosillo",
+      "reviewsCount": 8,
+      "totalScore": 4.5
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "carro",
+      "count": 30
+    },
+    {
+      "title": "vidrios",
+      "count": 13
+    },
+    {
+      "title": "máquina",
+      "count": 12
+    },
+    {
+      "title": "cajuela",
+      "count": 9
+    },
+    {
+      "title": "tapetes",
+      "count": 8
+    },
+    {
+      "title": "llantas",
+      "count": 7
+    },
+    {
+      "title": "marcas",
+      "count": 6
+    },
+    {
+      "title": "polvo",
+      "count": 6
+    },
+    {
+      "title": "secar",
+      "count": 5
+    },
+    {
+      "title": "pagar",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "Así todo empolvado y el vidrio de atrás ni se diga cada vez están peor 😔  lastima de instalaciónes pésimo servicio",
+    "language": "es",
+    "postDate": "Hace un año",
+    "postedBy": {
+      "name": "Carmen Robles",
+      "url": "https://www.google.com/maps/contrib/100958913329883132858?hl=es-419",
+      "title": null,
+      "totalReviews": 12
+    },
+    "media": [
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmOzR_WUdrJnfLgIzNsPjYeLOclGztNA7zrFZ5UZ2jesTnBCvfJrR6A6Dxk3strERK-RNDXH7VkdBdZEg53yNnkIss3AA0RC6nzIAXniQIDzoX5XEZTzaLyx16Zfbx4Brmhi1DefDQf7h1c=k-no",
+        "postDate": "Hace un año"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmOmB_sC8H9Z2J3njoqXzmetPaEbTDBMI8O31AvSgcw1_NDyb_NnX6DIJksxzasFMoMd1TNAEogkzp_jPflj1hrdHM7ktCfP4MKvREn-kST4S_-MRcOmKN6KlAmCkmaw4sK3IMZDLcLtCPmT=k-no",
+        "postDate": "Hace un año"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmOB4xJ8uU4SXeUyQC86AdSi54Adl-HRaopZKCCULBqCu8sZ4YHmlhwIfdL_wL77XF2zJsPsjZIICDFuUVRY1ofArKIu_NpYLmkC3wjdT98F6JdS6U24h-NP2TySBUx-l5N2z_rt5F8jfsoD=k-no",
+        "postDate": "Hace un año"
+      },
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmP80CKV2nkLbxsegtQZspNXBH4LExAyP7NX2jxVzM1QpPyxuvy4UWRQX_aSYDe2JNM9Tz5gMQKS7wjNTnlZ3ai3TuJeVTh7hwH-QoXCrf5Qcryv8qOFF0z6Co2zugkuduslfRVuuGQ6DoMt=k-no",
+        "postDate": "Hace un año"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=ULTRA%20car%20wash&query_place_id=ChIJNTvlktiHzoYR3A5L1FJYrF8",
+  "searchString": "place_id:ChIJNTvlktiHzoYR3A5L1FJYrF8",
+  "language": "es",
+  "inputPlaceId": "ChIJNTvlktiHzoYR3A5L1FJYrF8",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJNTvlktiHzoYR3A5L1FJYrF8&query_place_id=ChIJNTvlktiHzoYR3A5L1FJYrF8",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmIvmiBLlkFemQMpndac3mc9OVi5oxdbJMatey7LW4CP86sTzw5ftJt_XPRxbtH9W3qa7tvhKz0SP0hWMXDmE7bDFHYFbio4_NopGfQDUUYgza0ELasAUmoSqr6Oc7enSFZivIm=w427-h240-k-no",
+  "kgmid": "/g/11q2w3xzdl",
+  "businessProfileId": "2371921312742191859",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+}]
