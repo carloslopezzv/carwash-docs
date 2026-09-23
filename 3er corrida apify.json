@@ -1,0 +1,5241 @@
+[{
+  "title": "Plaza La Encantada",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Centro comercial",
+  "address": "Amate 9, La Encantada, La Manga, 83224 Hermosillo, Son., México",
+  "neighborhood": "La Encantada, La Manga",
+  "street": "Amate 9",
+  "city": "Hermosillo",
+  "postalCode": "83224",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 29.0820879,
+    "lng": -111.0248862
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "3XJG+R2 Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJIVi5KlWDzoYR92YMxPIVIag",
+  "categories": [
+    "Centro comercial"
+  ],
+  "fid": "0x86ce83552ab95821:0xa82115f2c40c66f7",
+  "cid": "12114988605018760951",
+  "reviewsCount": 236,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 8,
+    "fourStar": 48,
+    "fiveStar": 178
+  },
+  "imagesCount": 16,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-23T02:39:44.075Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "10:30 AM to 8 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "10:30 AM to 8 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "10:30 AM to 8 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "10:30 AM to 8 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "domingo",
+      "hours": "Cerrado"
+    },
+    {
+      "day": "lunes",
+      "hours": "10:30 AM to 8 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 14
+    },
+    {
+      "title": "Ropa",
+      "count": 1
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 9
+    },
+    {
+      "title": "Otra",
+      "count": 11
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "estacionamiento",
+      "count": 3
+    },
+    {
+      "title": "precios",
+      "count": 3
+    },
+    {
+      "title": "establecimiento",
+      "count": 3
+    },
+    {
+      "title": "carne",
+      "count": 2
+    },
+    {
+      "title": "farmacia",
+      "count": 2
+    },
+    {
+      "title": "encantó",
+      "count": 2
+    },
+    {
+      "title": "negocios",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20La%20Encantada&query_place_id=ChIJIVi5KlWDzoYR92YMxPIVIag",
+  "searchString": "place_id:ChIJIVi5KlWDzoYR92YMxPIVIag",
+  "language": "es",
+  "inputPlaceId": "ChIJIVi5KlWDzoYR92YMxPIVIag",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJIVi5KlWDzoYR92YMxPIVIag&query_place_id=ChIJIVi5KlWDzoYR92YMxPIVIag",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkrJk0-WoolLPiQOba5dbijpZJRIX5zs1uLXt_QRveUV9kYfEAsWYOeLEIfcqs3nUBvB3kldPN7c6U6U7at1P3Sijo6yxPalxr8ufKl1-GbtxnaRDLKEwJyiTHbF09Y9Xpo4LJF=w426-h240-k-no",
+  "kgmid": "/g/11kmf6nnq2",
+  "businessProfileId": null,
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Plaza Progreso",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Centro comercial",
+  "address": "Blvd. Progreso &, miguel piña, 83106 Hermosillo, Son., México",
+  "neighborhood": "miguel piña",
+  "street": "Blvd. Progreso &",
+  "city": "Hermosillo",
+  "postalCode": "83106",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 29.1466569,
+    "lng": -110.9728431
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "42WG+MV Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJq4cA7uCGzoYRpxFl42FMDlM",
+  "categories": [
+    "Centro comercial"
+  ],
+  "fid": "0x86ce86e0ee0087ab:0x530e4c61e36511a7",
+  "cid": "5984804938132558247",
+  "reviewsCount": 270,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 3,
+    "threeStar": 26,
+    "fourStar": 48,
+    "fiveStar": 189
+  },
+  "imagesCount": 5,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-23T02:39:44.362Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "miércoles",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "jueves",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "viernes",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "sábado",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "domingo",
+      "hours": "8 AM to 2 a.m."
+    },
+    {
+      "day": "lunes",
+      "hours": "8 AM to 2 a.m."
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 4
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 1
+    },
+    {
+      "title": "Otra",
+      "count": 6
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "estacionamiento",
+      "count": 12
+    },
+    {
+      "title": "negocios",
+      "count": 3
+    },
+    {
+      "title": "pastelería",
+      "count": 2
+    },
+    {
+      "title": "cantidad",
+      "count": 2
+    },
+    {
+      "title": "gimnasio",
+      "count": 2
+    },
+    {
+      "title": "café",
+      "count": 2
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Progreso&query_place_id=ChIJq4cA7uCGzoYRpxFl42FMDlM",
+  "searchString": "place_id:ChIJq4cA7uCGzoYRpxFl42FMDlM",
+  "language": "es",
+  "inputPlaceId": "ChIJq4cA7uCGzoYRpxFl42FMDlM",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJq4cA7uCGzoYRpxFl42FMDlM&query_place_id=ChIJq4cA7uCGzoYRpxFl42FMDlM",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkJHbejL1hI9LylQdz_MNtFWLKcvtCBWmObItyZfnMP5eeux2MctGPeHGSY70P7OQG-_NK3cl1NX8aZj0gtlxM8-UwfyQ-Tp1IJDGWc-X8Jv1FHjVJKr4wIQTSqk4i9wcFQxBUO4g=w408-h306-k-no",
+  "kgmid": "/g/11f298nfb2",
+  "businessProfileId": null,
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Walmart",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Supermercado",
+  "address": "C. 12 de Octubre 369, entre Topahue y Sta. Rosa, Jacinto Lopez, 83105 Hermosillo, Son., México",
+  "neighborhood": "Jacinto Lopez",
+  "street": "C. 12 de Octubre 369, entre Topahue y Sta. Rosa",
+  "city": "Hermosillo",
+  "postalCode": "83105",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "http://walmart.com.mx/",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 29.144377,
+    "lng": -110.9805477
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "42V9+QQ Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJue6D542HzoYRTWHzGH8BITQ",
+  "categories": [
+    "Supermercado"
+  ],
+  "fid": "0x86ce878de783eeb9:0x3421017f18f3614d",
+  "cid": "3756285209594782029",
+  "reviewsCount": 1715,
+  "reviewsDistribution": {
+    "oneStar": 36,
+    "twoStar": 16,
+    "threeStar": 59,
+    "fourStar": 335,
+    "fiveStar": 1269
+  },
+  "imagesCount": 354,
+  "imageCategories": [
+    "Todas",
+    "Interior",
+    "Vídeos",
+    "Estacionamiento"
+  ],
+  "scrapedAt": "2026-09-23T02:39:47.189Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Un poco concurrido",
+  "popularTimesLivePercent": 64,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 94
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 12
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 25
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 11
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 20
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 37
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "7 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "Walmart",
+      "reviewsCount": 4979,
+      "totalScore": 4.3
+    },
+    {
+      "category": "También se buscó",
+      "title": "Bodega Aurrera",
+      "reviewsCount": 2289,
+      "totalScore": 4.2
+    },
+    {
+      "category": "También se buscó",
+      "title": "Walmart Wash",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Soriana Híper Progreso",
+      "reviewsCount": 2999,
+      "totalScore": 4.1
+    },
+    {
+      "category": "También se buscó",
+      "title": "Woolworth",
+      "reviewsCount": 2392,
+      "totalScore": 4.6
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 1
+    },
+    {
+      "title": "Compras",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "surtido",
+      "count": 64
+    },
+    {
+      "title": "cajas",
+      "count": 34
+    },
+    {
+      "title": "auto",
+      "count": 20
+    },
+    {
+      "title": "pago",
+      "count": 19
+    },
+    {
+      "title": "limpieza",
+      "count": 9
+    },
+    {
+      "title": "protocolos",
+      "count": 7
+    },
+    {
+      "title": "alcohol",
+      "count": 7
+    },
+    {
+      "title": "compra",
+      "count": 6
+    },
+    {
+      "title": "sucursal",
+      "count": 6
+    },
+    {
+      "title": "orden",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Opciones de servicio": [
+      {
+        "Entrega sin contacto": true
+      },
+      {
+        "Entrega a domicilio": true
+      },
+      {
+        "Servicios en el lugar": true
+      }
+    ],
+    "Aspectos destacados": [
+      {
+        "Buenos productos frescos": true
+      }
+    ],
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ],
+    "Qué ofrece": [
+      {
+        "Comida": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Planificación": [
+      {
+        "Visita rápida": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ],
+    "Estacionamiento": [
+      {
+        "Estacionamiento en el lugar": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "Haz tus pedidos en línea y  recogelos en tu carro.",
+    "language": "es",
+    "postDate": "Hace 4 años",
+    "postedBy": {
+      "name": "JESUS ALONSO AVENDAÑO",
+      "url": "https://www.google.com/maps/contrib/109761124507867850693?hl=es-419",
+      "title": "Local Guide",
+      "totalReviews": 566
+    },
+    "media": [
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmM_dfrrOYIuvszAovI9_pzPsbg2dvuJYZk54M6GbMEp06Kkt2xZKfQ37QXoIACT1ZP5gkObt1SI1nGtfG4QhyuwsKgn6IxfCFfXDYcvNQKng_3fc8r6D7Cb1VgprqF2vC6nOTM=k-no",
+        "postDate": "Hace 4 años"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Walmart&query_place_id=ChIJue6D542HzoYRTWHzGH8BITQ",
+  "searchString": "place_id:ChIJue6D542HzoYRTWHzGH8BITQ",
+  "language": "es",
+  "inputPlaceId": "ChIJue6D542HzoYRTWHzGH8BITQ",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJue6D542HzoYRTWHzGH8BITQ&query_place_id=ChIJue6D542HzoYRTWHzGH8BITQ",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlEfE5_q1G_KnL-BqRoobrkSmFSa8aXqkdaS-_riHccwcw9AZwunEFn-yMfxuWi0ndwXtAaIV7l7ZZogFwmrsIegW2Oddja_wVivgSuaOA7n9m7W_iGCIaUsBCmw_k574hKdDtk=w408-h271-k-no",
+  "kgmid": "/g/11j9n9lb70",
+  "businessProfileId": null,
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Soriana Híper Progreso",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Encuentra tu supermercado Soriana más cercano para abastecerte de todo lo que necesitas. Nuestras tiendas ofrecen una amplia variedad de productos de calidad, desde alimentos frescos hasta artículos de despensa y más. Descubre la comodidad de tener un supermercado cerca de ti, donde podrás encontrar todo lo que necesitas para tus compras diarias. Visítanos y disfruta de la experiencia de compra en Soriana, tu supermercado de confianza.",
+  "price": null,
+  "categoryName": "Supermercado",
+  "address": "Blvd. Solidaridad 663, Almacen, 83117 Hermosillo, Son., México",
+  "neighborhood": "Almacen",
+  "street": "Blvd. Solidaridad 663",
+  "city": "Hermosillo",
+  "postalCode": "83117",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "https://www.soriana.com/",
+  "phone": "+52 667 126 6175",
+  "phoneUnformatted": "+526671266175",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.145316,
+    "lng": -110.99545
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "42W3+4R Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJFS8eeNWGzoYROhCmi38LsgA",
+  "categories": [
+    "Supermercado",
+    "Cajeros automáticos",
+    "Tienda de ropa",
+    "Hipermercado",
+    "Tienda de ropa de hogar",
+    "Tienda de ropa de hombre",
+    "Farmacia",
+    "Tienda de ropa de mujer"
+  ],
+  "fid": "0x86ce86d5781e2f15:0xb20b7f8ba6103a",
+  "cid": "50115188286165050",
+  "reviewsCount": 3000,
+  "reviewsDistribution": {
+    "oneStar": 182,
+    "twoStar": 120,
+    "threeStar": 394,
+    "fourStar": 702,
+    "fiveStar": 1602
+  },
+  "imagesCount": 877,
+  "imageCategories": [
+    "Todas",
+    "Interior",
+    "Vídeos",
+    "Estacionamiento",
+    "Del propietario",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-23T02:39:47.369Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Un poco concurrido",
+  "popularTimesLivePercent": 64,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 94
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "8 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "Bodega Aurrera",
+      "reviewsCount": 2289,
+      "totalScore": 4.2
+    },
+    {
+      "category": "También se buscó",
+      "title": "Entrada de personal Soriana Sendero",
+      "reviewsCount": 4,
+      "totalScore": 4.3
+    },
+    {
+      "category": "También se buscó",
+      "title": "Recibo Soriana 206",
+      "reviewsCount": 1,
+      "totalScore": 5
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 1
+    },
+    {
+      "title": "Compras",
+      "count": 1
+    },
+    {
+      "title": "Esparcimiento",
+      "count": 1
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "cajas",
+      "count": 56
+    },
+    {
+      "title": "ofertas",
+      "count": 43
+    },
+    {
+      "title": "surtido",
+      "count": 43
+    },
+    {
+      "title": "pagar",
+      "count": 19
+    },
+    {
+      "title": "plaza",
+      "count": 14
+    },
+    {
+      "title": "centro comercial",
+      "count": 8
+    },
+    {
+      "title": "ropa",
+      "count": 8
+    },
+    {
+      "title": "roban",
+      "count": 7
+    },
+    {
+      "title": "baños",
+      "count": 7
+    },
+    {
+      "title": "despensa",
+      "count": 6
+    }
+  ],
+  "additionalInfo": {
+    "Opciones de servicio": [
+      {
+        "Entrega a domicilio": true
+      }
+    ],
+    "Aspectos destacados": [
+      {
+        "Buenos productos frescos": true
+      }
+    ],
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ],
+    "Qué ofrece": [
+      {
+        "Comida": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Público usual": [
+      {
+        "Amigable con LGBTQ+": true
+      },
+      {
+        "Espacio seguro para personas transgénero": true
+      }
+    ],
+    "Planificación": [
+      {
+        "Visita rápida": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Soriana%20H%C3%ADper%20Progreso&query_place_id=ChIJFS8eeNWGzoYROhCmi38LsgA",
+  "searchString": "place_id:ChIJFS8eeNWGzoYROhCmi38LsgA",
+  "language": "es",
+  "inputPlaceId": "ChIJFS8eeNWGzoYROhCmi38LsgA",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJFS8eeNWGzoYROhCmi38LsgA&query_place_id=ChIJFS8eeNWGzoYROhCmi38LsgA",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMhgPVhAEh9peU7JSTtcumuySI4-9Gz4rI0Mg6HlaPjoXmlWwLj2n0dTimKo78M6vzXf6idVP2a59dYDiXWlQ6_EjE8qhoR1JRdbJG7QAfnkIGibEesYML7Gg9JUSpSjMubZJzF=w513-h240-k-no",
+  "kgmid": "/g/1tg79g_r",
+  "businessProfileId": "10203216463198723026",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Pabellón Misiones",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Centro comercial",
+  "address": "Av. Ignacio Salazar, Misiones, 83125 Hermosillo, Son., México",
+  "neighborhood": "Misiones",
+  "street": "Av. Ignacio Salazar",
+  "city": "Hermosillo",
+  "postalCode": "83125",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "http://www.pabellonmisiones.com/",
+  "phone": "+52 662 118 0438",
+  "phoneUnformatted": "+526621180438",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 29.1169598,
+    "lng": -110.9990251
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "4282+Q9 Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ_eVJrEyBzoYRKkUGuwsxGck",
+  "categories": [
+    "Centro comercial"
+  ],
+  "fid": "0x86ce814cac49e5fd:0xc919310bbb06452a",
+  "cid": "14490667202493433130",
+  "reviewsCount": 4358,
+  "reviewsDistribution": {
+    "oneStar": 58,
+    "twoStar": 84,
+    "threeStar": 513,
+    "fourStar": 1107,
+    "fiveStar": 2596
+  },
+  "imagesCount": 693,
+  "imageCategories": [
+    "Todas",
+    "Interior",
+    "Vídeos",
+    "Alimento",
+    "Restaurante",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-23T02:39:50.101Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Un poco concurrido",
+  "popularTimesLivePercent": 76,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 8
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 13
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 21
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 96
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 99
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 41
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 48
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 28
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 38
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 94
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 26
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 50
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 96
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "8 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "Misiones",
+      "reviewsCount": 33,
+      "totalScore": 4.1
+    },
+    {
+      "category": "También se buscó",
+      "title": "Pabellón misiones",
+      "reviewsCount": 0,
+      "totalScore": 0
+    },
+    {
+      "category": "También se buscó",
+      "title": "SPIN- HIIT PABELLÓN MISIONES",
+      "reviewsCount": 12,
+      "totalScore": 4.9
+    },
+    {
+      "category": "También se buscó",
+      "title": "MEGACABLE CIS",
+      "reviewsCount": 251,
+      "totalScore": 3.2
+    },
+    {
+      "category": "También se buscó",
+      "title": "Pabellón Reforma",
+      "reviewsCount": 5415,
+      "totalScore": 4.2
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 7
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 5
+    },
+    {
+      "title": "Otra",
+      "count": 16
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "estacionamiento",
+      "count": 167
+    },
+    {
+      "title": "farmacia",
+      "count": 44
+    },
+    {
+      "title": "comida china",
+      "count": 36
+    },
+    {
+      "title": "pago",
+      "count": 27
+    },
+    {
+      "title": "pastelería",
+      "count": 21
+    },
+    {
+      "title": "oficinas",
+      "count": 17
+    },
+    {
+      "title": "norte",
+      "count": 15
+    },
+    {
+      "title": "burros",
+      "count": 14
+    },
+    {
+      "title": "locales comerciales",
+      "count": 13
+    },
+    {
+      "title": "credencial de elector",
+      "count": 7
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Pabell%C3%B3n%20Misiones&query_place_id=ChIJ_eVJrEyBzoYRKkUGuwsxGck",
+  "searchString": "place_id:ChIJ_eVJrEyBzoYRKkUGuwsxGck",
+  "language": "es",
+  "inputPlaceId": "ChIJ_eVJrEyBzoYRKkUGuwsxGck",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJ_eVJrEyBzoYRKkUGuwsxGck&query_place_id=ChIJ_eVJrEyBzoYRKkUGuwsxGck",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk-oT7W1HF21JQmL2PpmbY_pwCO9rRTLFDNl0E2fKfB96ooOfKbGsvW9ABhGYwTfDJ31QxaTXIZl2T1N75Rcha6QdRfhgQMu1KZEhdwLwwB96jWqUixJ0vkKxuRCCWcaFRgWwq7=w426-h240-k-no",
+  "kgmid": "/g/1vp6_mdl",
+  "businessProfileId": null,
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Walmart",
+  "subTitle": null,
+  "description": "Cadena minorista en la que se venden comestibles, ropa, aparatos electrónicos y artículos para el hogar.",
+  "ownerDescription": "Walmart en Hermosillo, Son., México (C.P. 83145). Ubicado en Blvd José María Morelos 355. Encuentra despensa, hogar, electrónica y artículos de uso diario. Consulta en el perfil horarios y servicios disponibles en esta sucursal.",
+  "price": null,
+  "categoryName": "Tienda de alimentación",
+  "address": "Kiosco SC, Boulevard José María Morelos 355, Bulevar José María Morelos 3030, 83145 Hermosillo, Son., México",
+  "neighborhood": "Zona Militar",
+  "street": "Kiosco SC, Boulevard José María Morelos 355, Bulevar José María Morelos 3030",
+  "city": "Hermosillo",
+  "postalCode": "83145",
+  "state": "Son.",
+  "countryCode": "MX",
+  "website": "https://www.walmart.com.mx/?utm_source=google&utm_medium=organic_search&utm_campaign=wm_uf_traffic_onsite_seo-local",
+  "phone": "+52 800 000 0022",
+  "phoneUnformatted": "+528000000022",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.1218511,
+    "lng": -110.9498515
+  },
+  "locatedIn": "City Center PITIC",
+  "floor": null,
+  "plusCode": "43C2+P3 Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJlT_mkmKGzoYR4Z3kjt4G_TU",
+  "categories": [
+    "Tienda de alimentación"
+  ],
+  "fid": "0x86ce866292e63f95:0x35fd06de8ee49de1",
+  "cid": "3890273206067830241",
+  "reviewsCount": 5890,
+  "reviewsDistribution": {
+    "oneStar": 168,
+    "twoStar": 93,
+    "threeStar": 371,
+    "fourStar": 1291,
+    "fiveStar": 3967
+  },
+  "imagesCount": 922,
+  "imageCategories": [
+    "Todas",
+    "Interior",
+    "Vídeos",
+    "Alimento",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-23T02:39:53.578Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Máxima concurrencia",
+  "popularTimesLivePercent": 81,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 19
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 58
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 96
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 99
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 36
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 96
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 30
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 73
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 42
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 29
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 89
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 92
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 91
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "8 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "Sam's Club",
+      "reviewsCount": 6989,
+      "totalScore": 4.5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Soriana Híper Bachoco",
+      "reviewsCount": 2514,
+      "totalScore": 4.2
+    },
+    {
+      "category": "También se buscó",
+      "title": "Walmart Wash",
+      "reviewsCount": 1,
+      "totalScore": 5
+    },
+    {
+      "category": "También se buscó",
+      "title": "Carga y descarga de mercancía de Walmart Boulevard Morelos",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 1
+    },
+    {
+      "title": "Compras",
+      "count": 1
+    },
+    {
+      "title": "Servicios",
+      "count": 2
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "surtido",
+      "count": 158
+    },
+    {
+      "title": "cajas",
+      "count": 82
+    },
+    {
+      "title": "ropa",
+      "count": 20
+    },
+    {
+      "title": "organizado",
+      "count": 18
+    },
+    {
+      "title": "plaza",
+      "count": 17
+    },
+    {
+      "title": "electrónica",
+      "count": 15
+    },
+    {
+      "title": "batalla",
+      "count": 10
+    },
+    {
+      "title": "distribución",
+      "count": 8
+    },
+    {
+      "title": "cajones",
+      "count": 6
+    },
+    {
+      "title": "encuentro",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Opciones de servicio": [
+      {
+        "Entrega sin contacto": true
+      },
+      {
+        "Entrega a domicilio": true
+      },
+      {
+        "Servicios en el lugar": true
+      }
+    ],
+    "Aspectos destacados": [
+      {
+        "Buenos productos frescos": true
+      }
+    ],
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ],
+    "Qué ofrece": [
+      {
+        "Comida": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Planificación": [
+      {
+        "Visita rápida": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      },
+      {
+        "Tarjetas de crédito": true
+      }
+    ],
+    "Estacionamiento": [
+      {
+        "Estacionamiento gratuito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "updatesFromCustomers": {
+    "text": "Se me hicieron caras, en otro lugar me costaron menos de la cuarta parte",
+    "language": "es",
+    "postDate": "Hace 5 años",
+    "postedBy": {
+      "name": "francisco Javier Silva Ruiz",
+      "url": "https://www.google.com/maps/contrib/108511326120229631629?hl=es-419",
+      "title": "Local Guide",
+      "totalReviews": 313
+    },
+    "media": [
+      {
+        "link": "https://lh3.googleusercontent.com/grass-cs/ACvplmMcZM_nIhUPLVqhe69MQwtVBo-Zw09xFbQgELPNPnnUsVoKOO6P_Sm6A6iDByFkoOlqfpRa3Z0-r7SnUtIitTKm4UU1myNVhotc_j0GuNKydTGmX0f0QmKMY4kpZVoN9DLzCDeT=k-no",
+        "postDate": "Hace 5 años"
+      }
+    ]
+  },
+  "url": "https://www.google.com/maps/search/?api=1&query=Walmart&query_place_id=ChIJlT_mkmKGzoYR4Z3kjt4G_TU",
+  "searchString": "place_id:ChIJlT_mkmKGzoYR4Z3kjt4G_TU",
+  "language": "es",
+  "inputPlaceId": "ChIJlT_mkmKGzoYR4Z3kjt4G_TU",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJlT_mkmKGzoYR4Z3kjt4G_TU&query_place_id=ChIJlT_mkmKGzoYR4Z3kjt4G_TU",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqRfc3mKkP7DLcVhcenUbH0oJ8TisQVtit6QruheU6ymI-p23fqtaolz_88qXyRSLvei5g2vS8-7X2AdMTDIeh30-cMRHZ4G4Ai83AfhTN-IoWFP3cIW24MBYjhxgPvC6RrWXMEv8J0mUt=w408-h306-k-no",
+  "kgmid": "/g/1w96h58s",
+  "businessProfileId": "11739670383508202571",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "City Center PITIC",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Centro comercial",
+  "address": "Bulevar José María Morelos 355, Bachoco, 83148 Hermosillo, Son., México",
+  "neighborhood": "Bachoco",
+  "street": "Bulevar José María Morelos 355",
+  "city": "Hermosillo",
+  "postalCode": "83148",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "http://fibra-uno.com/?page_id=348",
+  "phone": "+52 662 267 8481",
+  "phoneUnformatted": "+526622678481",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 29.1215228,
+    "lng": -110.9496383
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "43C2+J4 Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJt0CxwmKGzoYRLfRFn-fEW0M",
+  "categories": [
+    "Centro comercial"
+  ],
+  "fid": "0x86ce8662c2b140b7:0x435bc4e79f45f42d",
+  "cid": "4853689522510492717",
+  "reviewsCount": 4809,
+  "reviewsDistribution": {
+    "oneStar": 68,
+    "twoStar": 79,
+    "threeStar": 431,
+    "fourStar": 1179,
+    "fiveStar": 3052
+  },
+  "imagesCount": 964,
+  "imageCategories": [
+    "Todas",
+    "Interior",
+    "Vídeos",
+    "Alimento",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-23T02:39:55.219Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Menos concurrido de lo habitual",
+  "popularTimesLivePercent": 9,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 31
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 45
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 97
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 39
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 53
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 77
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 96
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 24
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 34
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 46
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 88
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 22
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 32
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 56
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 66
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 76
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 87
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 90
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 18
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 27
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 40
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 85
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 84
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 79
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "7 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "Sucursal Banamex Mirador, Hermosillo, Son",
+      "reviewsCount": 78,
+      "totalScore": 2.6
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza 662",
+      "reviewsCount": 18,
+      "totalScore": 4.6
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza Comercial CONCHITA",
+      "reviewsCount": 32,
+      "totalScore": 4.2
+    },
+    {
+      "category": "También se buscó",
+      "title": "PLAZA BELLA",
+      "reviewsCount": 5,
+      "totalScore": 4.6
+    },
+    {
+      "category": "También se buscó",
+      "title": "Plaza Daly",
+      "reviewsCount": 0,
+      "totalScore": 0
+    }
+  ],
+  "placesTags": [
+    {
+      "title": "Comida y bebida",
+      "count": 11
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 4
+    },
+    {
+      "title": "Casa y cocina",
+      "count": 1
+    },
+    {
+      "title": "Electrónica",
+      "count": 3
+    },
+    {
+      "title": "Otra",
+      "count": 13
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "estacionamiento",
+      "count": 255
+    },
+    {
+      "title": "bancos",
+      "count": 61
+    },
+    {
+      "title": "casino",
+      "count": 56
+    },
+    {
+      "title": "gimnasio",
+      "count": 43
+    },
+    {
+      "title": "ensaladas",
+      "count": 22
+    },
+    {
+      "title": "batalla",
+      "count": 13
+    },
+    {
+      "title": "horas pico",
+      "count": 12
+    },
+    {
+      "title": "roles",
+      "count": 7
+    },
+    {
+      "title": "instalaciones",
+      "count": 7
+    },
+    {
+      "title": "movistar",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Opciones de servicio": [
+      {
+        "Servicios en el lugar": true
+      }
+    ],
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      },
+      {
+        "Tarjetas de crédito": true
+      }
+    ],
+    "Menores": [
+      {
+        "Tiene cambiadores de pañales": true
+      }
+    ],
+    "Estacionamiento": [
+      {
+        "Estacionamiento gratuito": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=City%20Center%20PITIC&query_place_id=ChIJt0CxwmKGzoYRLfRFn-fEW0M",
+  "searchString": "place_id:ChIJt0CxwmKGzoYRLfRFn-fEW0M",
+  "language": "es",
+  "inputPlaceId": "ChIJt0CxwmKGzoYRLfRFn-fEW0M",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJt0CxwmKGzoYRLfRFn-fEW0M&query_place_id=ChIJt0CxwmKGzoYRLfRFn-fEW0M",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmtUjWDIWEC3wQu9Za9i8i0P8T4sEiWWGsvi7iD4EwmBjjDb3QkBrHCBEXgGb79aw5whgHOFG2ZuQiMgb-2wk6o_UyaMsJlCUhvsVUYzhdLgFuNC6wzO5Xs1D9x5KtwiRLHoMl3nF19RqnC=w408-h306-k-no",
+  "kgmid": "/g/11b7j46c9m",
+  "businessProfileId": null,
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Bodega Aurrerá Salazar",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Tienda de alimentación",
+  "address": "Av. Ignacio Salazar 772, Fraccionamiento Mision San Jeronimo, 83125 Hermosillo, Son., México",
+  "neighborhood": "Supermanzana LAS Manzana ENTRE, Fraccionamiento Mision San Jeronimo",
+  "street": "Av. Ignacio Salazar 772",
+  "city": "Hermosillo",
+  "postalCode": "83125",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "https://www.bodegaaurrera.com.mx/?utm_source=google&utm_medium=gbp&utm_campaign=local",
+  "phone": "+52 800 000 0022",
+  "phoneUnformatted": "+528000000022",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.1153425,
+    "lng": -110.9988601
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "4282+4F Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJeQuEtUyBzoYRhWRbmIDMjbE",
+  "categories": [
+    "Tienda de alimentación"
+  ],
+  "fid": "0x86ce814cb5840b79:0xb18dcc80985b6485",
+  "cid": "12794106969113453701",
+  "reviewsCount": 3003,
+  "reviewsDistribution": {
+    "oneStar": 133,
+    "twoStar": 73,
+    "threeStar": 279,
+    "fourStar": 689,
+    "fiveStar": 1829
+  },
+  "imagesCount": 460,
+  "imageCategories": [],
+  "scrapedAt": "2026-09-23T02:39:56.777Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "jueves",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "viernes",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "sábado",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "domingo",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "7 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [
+    {
+      "title": "Compras",
+      "count": 1
+    },
+    {
+      "title": "Servicios",
+      "count": 2
+    },
+    {
+      "title": "Salud y belleza",
+      "count": 1
+    }
+  ],
+  "reviewsTags": [
+    {
+      "title": "cajas",
+      "count": 92
+    },
+    {
+      "title": "surtido",
+      "count": 87
+    },
+    {
+      "title": "estacionamiento",
+      "count": 42
+    },
+    {
+      "title": "pagar",
+      "count": 36
+    },
+    {
+      "title": "económico",
+      "count": 20
+    },
+    {
+      "title": "mercancía",
+      "count": 14
+    },
+    {
+      "title": "sucursal",
+      "count": 10
+    },
+    {
+      "title": "despensa",
+      "count": 7
+    },
+    {
+      "title": "pasillos",
+      "count": 6
+    },
+    {
+      "title": "orden",
+      "count": 6
+    }
+  ],
+  "additionalInfo": {
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bodega%20Aurrer%C3%A1%20Salazar&query_place_id=ChIJeQuEtUyBzoYRhWRbmIDMjbE",
+  "searchString": "place_id:ChIJeQuEtUyBzoYRhWRbmIDMjbE",
+  "language": "es",
+  "inputPlaceId": "ChIJeQuEtUyBzoYRhWRbmIDMjbE",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJeQuEtUyBzoYRhWRbmIDMjbE&query_place_id=ChIJeQuEtUyBzoYRhWRbmIDMjbE",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmNbQi9SnMjYYy21ILYTQI3j6WfxLvcxDJHOj50HLKKSGvT1o05Ei9W5hkD7OVuh239jLRzuVo0OYyedkkueCEJYuU6Jk_uTkmQbLncgMZ9olOreuaByd2ujF6lTe485xciaCQVjQzDr5kvE=w408-h306-k-no",
+  "kgmid": "/g/11f03py52k",
+  "businessProfileId": "16527940612550631138",
+  "webResults": [],
+  "tableReservationLinks": [],
+  "tableReservationProviders": [],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": null
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+},
+{
+  "title": "Netto Cocina Sonorense",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": "Netto restaurante",
+  "price": null,
+  "categoryName": "Restaurante mexicano",
+  "address": "Boulevard Luis Donaldo Colosio Murrieta, P.º de las Misiones 895, 83224 Hermosillo, Son., México",
+  "neighborhood": "La Manga",
+  "street": "Boulevard Luis Donaldo Colosio Murrieta, P.º de las Misiones 895",
+  "city": "Hermosillo",
+  "postalCode": "83224",
+  "state": "Son.",
+  "countryCode": "MX",
+  "website": "https://nettococina.com/",
+  "phone": "+52 662 463 0038",
+  "phoneUnformatted": "+526624630038",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.0817383,
+    "lng": -111.02803
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": "3XJC+MQ Hermosillo, Sonora, México",
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJx_l3iMODzoYRvD_i2EQHges",
+  "categories": [
+    "Restaurante mexicano",
+    "Restaurante"
+  ],
+  "fid": "0x86ce83c38877f9c7:0xeb810744d8e23fbc",
+  "cid": "16969852863186616252",
+  "reviewsCount": 707,
+  "reviewsDistribution": {
+    "oneStar": 7,
+    "twoStar": 11,
+    "threeStar": 22,
+    "fourStar": 91,
+    "fiveStar": 576
+  },
+  "imagesCount": 540,
+  "imageCategories": [
+    "Todas",
+    "Más recientes",
+    "Vídeos",
+    "Carta",
+    "Comida y bebida",
+    "Ambiente",
+    "Queso flameado",
+    "Pastel de pecanas",
+    "Natilla",
+    "Cerveza",
+    "Del propietario",
+    "Street View y 360°"
+  ],
+  "scrapedAt": "2026-09-23T02:39:57.617Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/K2M_dzPKPqY?source=pa&opi=79508299&hl=es-US&gei=_TuzatGTAen5wbkP-6Hy6AQ&ahbb=1&sourceurl=https://www.google.com/maps/preview/place?authuser%3D0%26hl%3Des%26gl%3Dus%26pb%3D!1m16!1s0x86ce83c38877f9c7:0xeb810744d8e23fbc!3m8!1m3!1d96786.77014816186!2d-73.9966976!3d40.7051002!3m2!1i489!2i906!4f13.1!4m2!3d40.7606891!4d-73.9991868!15m2!1m1!4s/m/053lrp6!12m4!2m3!1i360!2i120!4i8!13m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!14m2!1sMcYNaceANdnbi-gPt5PjyQQ!7e81!15m110!1m31!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m20!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!30b1!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!21m0!22m1!1e81!30m6!3b1!6m1!2b1!7m1!2b1!9b1!34m5!7b1!10b1!14b1!15m1!1b0!37i757!39sChIJx_l3iMODzoYRvD_i2EQHges%26q%3DChIJx_l3iMODzoYRvD_i2EQHges",
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": "Máxima concurrencia",
+  "popularTimesLivePercent": 94,
+  "popularTimesHistogram": {
+    "Su": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 52
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 100
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 86
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 44
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 35
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 0
+      }
+    ],
+    "Mo": [],
+    "Tu": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 51
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 74
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 82
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 67
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 29
+      }
+    ],
+    "We": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 57
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 70
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 43
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 23
+      }
+    ],
+    "Th": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 54
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 81
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 95
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 93
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 45
+      }
+    ],
+    "Fr": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 49
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 61
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 68
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 63
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 59
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 62
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 75
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 83
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 47
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 23
+      }
+    ],
+    "Sa": [
+      {
+        "hour": 6,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 7,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 8,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 9,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 10,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 11,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 12,
+        "occupancyPercent": 0
+      },
+      {
+        "hour": 13,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 14,
+        "occupancyPercent": 72
+      },
+      {
+        "hour": 15,
+        "occupancyPercent": 80
+      },
+      {
+        "hour": 16,
+        "occupancyPercent": 78
+      },
+      {
+        "hour": 17,
+        "occupancyPercent": 65
+      },
+      {
+        "hour": 18,
+        "occupancyPercent": 60
+      },
+      {
+        "hour": 19,
+        "occupancyPercent": 64
+      },
+      {
+        "hour": 20,
+        "occupancyPercent": 69
+      },
+      {
+        "hour": 21,
+        "occupancyPercent": 71
+      },
+      {
+        "hour": 22,
+        "occupancyPercent": 55
+      },
+      {
+        "hour": 23,
+        "occupancyPercent": 33
+      },
+      {
+        "hour": 0,
+        "occupancyPercent": 14
+      }
+    ]
+  },
+  "openingHours": [
+    {
+      "day": "martes",
+      "hours": "1 PM to 12 AM"
+    },
+    {
+      "day": "miércoles",
+      "hours": "1 PM to 12 AM"
+    },
+    {
+      "day": "jueves",
+      "hours": "1 PM to 12 AM"
+    },
+    {
+      "day": "viernes",
+      "hours": "1 PM to 1 AM"
+    },
+    {
+      "day": "sábado",
+      "hours": "1 PM to 1 AM"
+    },
+    {
+      "day": "domingo",
+      "hours": "1 to 10 PM"
+    },
+    {
+      "day": "lunes",
+      "hours": "Cerrado"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [
+    {
+      "category": "También se buscó",
+      "title": "Dogos El Neto Precio Y Calidad",
+      "reviewsCount": 17,
+      "totalScore": 4.4
+    },
+    {
+      "category": "También se buscó",
+      "title": "Navarrete 105",
+      "reviewsCount": 17,
+      "totalScore": 4.9
+    },
+    {
+      "category": "También se buscó",
+      "title": "Cayomango Fish & Drinks Colosio",
+      "reviewsCount": 1238,
+      "totalScore": 4.5
+    },
+    {
+      "category": "También se buscó",
+      "title": "ASADERO 321",
+      "reviewsCount": 3,
+      "totalScore": 5
+    },
+    {
+      "category": "También se buscó",
+      "title": "NW Taco Express",
+      "reviewsCount": 41,
+      "totalScore": 4
+    }
+  ],
+  "placesTags": [],
+  "reviewsTags": [
+    {
+      "title": "platillos",
+      "count": 30
+    },
+    {
+      "title": "pulpo",
+      "count": 12
+    },
+    {
+      "title": "rib eye",
+      "count": 9
+    },
+    {
+      "title": "carta",
+      "count": 9
+    },
+    {
+      "title": "vinos",
+      "count": 8
+    },
+    {
+      "title": "cena",
+      "count": 6
+    },
+    {
+      "title": "chorizo",
+      "count": 6
+    },
+    {
+      "title": "presentación",
+      "count": 5
+    },
+    {
+      "title": "papada",
+      "count": 5
+    },
+    {
+      "title": "chicharrón",
+      "count": 5
+    }
+  ],
+  "additionalInfo": {
+    "Opciones de servicio": [
+      {
+        "Para llevar": true
+      },
+      {
+        "Consumo en el lugar": true
+      }
+    ],
+    "Aspectos destacados": [
+      {
+        "Buen café": true
+      },
+      {
+        "Buenos cócteles": true
+      },
+      {
+        "Deliciosos postres": true
+      },
+      {
+        "Muy buena selección de cervezas": true
+      },
+      {
+        "Muy buena selección de vinos": true
+      }
+    ],
+    "Popular por": [
+      {
+        "Almuerzo": true
+      },
+      {
+        "Cena": true
+      },
+      {
+        "Cena en solitario": true
+      }
+    ],
+    "Accesibilidad": [
+      {
+        "Entrada accesible para personas en silla de ruedas": true
+      },
+      {
+        "Espacio accesible para personas en silla de ruedas": true
+      },
+      {
+        "Estacionamiento accesible para personas en silla de ruedas": true
+      },
+      {
+        "Sanitarios accesibles para personas en silla de ruedas": true
+      }
+    ],
+    "Qué ofrece": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Aperitivos": true
+      },
+      {
+        "Bebidas fuertes": true
+      },
+      {
+        "Café": true
+      },
+      {
+        "Cerveza": true
+      },
+      {
+        "Cócteles": true
+      },
+      {
+        "Vino": true
+      }
+    ],
+    "Opciones del local": [
+      {
+        "Almuerzo": true
+      },
+      {
+        "Cena": true
+      },
+      {
+        "Postres": true
+      },
+      {
+        "Servicio a la mesa": true
+      }
+    ],
+    "Servicios": [
+      {
+        "Sanitario": true
+      },
+      {
+        "Tiene bar": true
+      }
+    ],
+    "Ambiente": [
+      {
+        "A la moda": true
+      },
+      {
+        "Agradable": true
+      },
+      {
+        "Informal": true
+      },
+      {
+        "Relajado": true
+      }
+    ],
+    "Público usual": [
+      {
+        "Grupos": true
+      }
+    ],
+    "Planificación": [
+      {
+        "Se aceptan reservas": true
+      }
+    ],
+    "Pagos": [
+      {
+        "Pagos móviles mediante NFC": true
+      },
+      {
+        "Tarjetas de crédito": true
+      },
+      {
+        "Tarjetas de débito": true
+      }
+    ],
+    "Estacionamiento": [
+      {
+        "Hay suficiente espacio": true
+      },
+      {
+        "Estacionamiento gratuito": true
+      },
+      {
+        "Estacionamiento gratuito en la calle": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "questionsAndAnswers": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Netto%20Cocina%20Sonorense&query_place_id=ChIJx_l3iMODzoYRvD_i2EQHges",
+  "searchString": "place_id:ChIJx_l3iMODzoYRvD_i2EQHges",
+  "language": "es",
+  "inputPlaceId": "ChIJx_l3iMODzoYRvD_i2EQHges",
+  "inputStartUrl": "https://www.google.com/maps/search/?api=1&query=ChIJx_l3iMODzoYRvD_i2EQHges&query_place_id=ChIJx_l3iMODzoYRvD_i2EQHges",
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1sd2tQurmbuWEOj11atDqzD8wR7iYCzCKFQ6zGfekZppSPYR8TfODV_4YYfAqz8GxgzOXD0S3_KsBxgRbJxqgo-X_P9kRW1E8I2LAevKZKiAFQenUBPAWT0Hq3s5bcTKd8dIirWMUyo4=w408-h272-k-no",
+  "kgmid": "/g/11gty1ndqk",
+  "businessProfileId": "4618931931516381321",
+  "webResults": [],
+  "tableReservationLinks": [
+    {
+      "name": "opentable.com.mx",
+      "url": "https://www.opentable.com.mx/restaurant/profile/1435981?ref=16420"
+    }
+  ],
+  "tableReservationProviders": [
+    {
+      "name": "OpenTable",
+      "email": null,
+      "phone": null,
+      "address": null,
+      "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/K2M_dzPKPqY?source=pa&opi=79508299&hl=es-US&gei=_TuzatGTAen5wbkP-6Hy6AQ&ahbb=1&sourceurl=https://www.google.com/maps/preview/place?authuser%3D0%26hl%3Des%26gl%3Dus%26pb%3D!1m16!1s0x86ce83c38877f9c7:0xeb810744d8e23fbc!3m8!1m3!1d96786.77014816186!2d-73.9966976!3d40.7051002!3m2!1i489!2i906!4f13.1!4m2!3d40.7606891!4d-73.9991868!15m2!1m1!4s/m/053lrp6!12m4!2m3!1i360!2i120!4i8!13m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!14m2!1sMcYNaceANdnbi-gPt5PjyQQ!7e81!15m110!1m31!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m20!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!30b1!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!21m0!22m1!1e81!30m6!3b1!6m1!2b1!7m1!2b1!9b1!34m5!7b1!10b1!14b1!15m1!1b0!37i757!39sChIJx_l3iMODzoYRvD_i2EQHges%26q%3DChIJx_l3iMODzoYRvD_i2EQHges"
+    }
+  ],
+  "bookingLinks": [],
+  "restaurantData": {
+    "tableReservationProvider": {
+      "name": "OpenTable",
+      "email": null,
+      "phone": null,
+      "address": null,
+      "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/K2M_dzPKPqY?source=pa&opi=79508299&hl=es-US&gei=_TuzatGTAen5wbkP-6Hy6AQ&ahbb=1&sourceurl=https://www.google.com/maps/preview/place?authuser%3D0%26hl%3Des%26gl%3Dus%26pb%3D!1m16!1s0x86ce83c38877f9c7:0xeb810744d8e23fbc!3m8!1m3!1d96786.77014816186!2d-73.9966976!3d40.7051002!3m2!1i489!2i906!4f13.1!4m2!3d40.7606891!4d-73.9991868!15m2!1m1!4s/m/053lrp6!12m4!2m3!1i360!2i120!4i8!13m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!14m2!1sMcYNaceANdnbi-gPt5PjyQQ!7e81!15m110!1m31!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m20!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!30b1!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!21m0!22m1!1e81!30m6!3b1!6m1!2b1!7m1!2b1!9b1!34m5!7b1!10b1!14b1!15m1!1b0!37i757!39sChIJx_l3iMODzoYRvD_i2EQHges%26q%3DChIJx_l3iMODzoYRvD_i2EQHges"
+    }
+  },
+  "ownerUpdates": [],
+  "imageUrls": [],
+  "reviews": [],
+  "leadsEnrichment": []
+}]
