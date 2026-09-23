@@ -1,0 +1,329 @@
+[{
+  "title": "Canton",
+  "totalScore": 4.4,
+  "reviewsCount": 902,
+  "street": "Bulevar José María Morelos 307",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "+52 662 108 7592",
+  "categories": [
+    "Restaurante chino"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Canton&query_place_id=ChIJu2tSRWeHzoYRIwOXWA0aycI",
+  "categoryName": "Restaurante chino"
+},
+{
+  "title": "Coworking 120 Hermosillo",
+  "totalScore": 4.5,
+  "reviewsCount": 54,
+  "street": "Cuartel XV, Bulevar José María Morelos 307-Edif H",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "http://coworking120.com/",
+  "phone": "+52 667 131 8501",
+  "categories": [
+    "Espacio de coworking"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Coworking%20120%20Hermosillo&query_place_id=ChIJIWEdiIeGzoYRbXg_NU9d_p0",
+  "categoryName": "Espacio de coworking"
+},
+{
+  "title": "El Farallón Hermosillo",
+  "totalScore": 4.5,
+  "reviewsCount": 1196,
+  "street": "Bulevar José María Morelos 307",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "https://farallon.mx/",
+  "phone": "+52 662 267 8800",
+  "categories": [
+    "Marisquería"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=El%20Farall%C3%B3n%20Hermosillo&query_place_id=ChIJEX5DWX2GzoYRRaBlT9-wHAM",
+  "categoryName": "Marisquería"
+},
+{
+  "title": "Casa Bella Bienes Raíces",
+  "totalScore": 5,
+  "reviewsCount": 2,
+  "street": "Cuartel XV, Torres Morelos – M307. Blvd. Morelos N° 307 PB, ediﬁcio ‘H",
+  "city": "Hermosillo",
+  "state": "Son.",
+  "countryCode": "MX",
+  "phone": "+52 662 107 5899",
+  "categories": [
+    "Agencia inmobiliaria"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Casa%20Bella%20Bienes%20Ra%C3%ADces&query_place_id=ChIJIaSWDE6HzoYR6-zNKZmdgsk",
+  "categoryName": "Agencia inmobiliaria"
+},
+{
+  "title": "Walmart",
+  "totalScore": 4.5,
+  "reviewsCount": 5890,
+  "street": "Kiosco SC, Boulevard José María Morelos 355, Bulevar José María Morelos 3030",
+  "city": "Hermosillo",
+  "state": "Son.",
+  "countryCode": "MX",
+  "website": "https://www.walmart.com.mx/?utm_source=google&utm_medium=organic_search&utm_campaign=wm_uf_traffic_onsite_seo-local",
+  "phone": "+52 800 000 0022",
+  "categories": [
+    "Tienda de alimentación"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Walmart&query_place_id=ChIJlT_mkmKGzoYR4Z3kjt4G_TU",
+  "categoryName": "Tienda de alimentación"
+},
+{
+  "title": "Plaza La Encantada",
+  "totalScore": 4.7,
+  "reviewsCount": 236,
+  "street": "Amate 9",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "",
+  "categories": [
+    "Centro comercial"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20La%20Encantada&query_place_id=ChIJIVi5KlWDzoYR92YMxPIVIag",
+  "categoryName": "Centro comercial"
+},
+{
+  "title": "Plaza Hípica",
+  "totalScore": 4.5,
+  "reviewsCount": 459,
+  "street": "83249, Blvd. Luis Donaldo Colosio Murrieta",
+  "city": "Hermosillo",
+  "state": "Son.",
+  "countryCode": "MX",
+  "phone": "",
+  "categories": [
+    "Centro comercial"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20H%C3%ADpica&query_place_id=ChIJg_IcisODzoYRfPt0iwL_CCo",
+  "categoryName": "Centro comercial"
+},
+{
+  "title": "Netto Cocina Sonorense",
+  "totalScore": 4.7,
+  "reviewsCount": 707,
+  "street": "Boulevard Luis Donaldo Colosio Murrieta, P.º de las Misiones 895",
+  "city": "Hermosillo",
+  "state": "Son.",
+  "countryCode": "MX",
+  "website": "https://nettococina.com/",
+  "phone": "+52 662 463 0038",
+  "categories": [
+    "Restaurante mexicano",
+    "Restaurante"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Netto%20Cocina%20Sonorense&query_place_id=ChIJx_l3iMODzoYRvD_i2EQHges",
+  "categoryName": "Restaurante mexicano"
+},
+{
+  "title": "Plaza Manantiales",
+  "totalScore": 4.4,
+  "reviewsCount": 140,
+  "street": "Blvd. Solidaridad 1011",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "",
+  "categories": [
+    "Centro comercial"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Manantiales&query_place_id=ChIJ8TQCDVaHzoYR6IdFaqinB9I",
+  "categoryName": "Centro comercial"
+},
+{
+  "title": "Plaza Progreso",
+  "totalScore": 4.5,
+  "reviewsCount": 270,
+  "street": "Blvd. Progreso &",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "",
+  "categories": [
+    "Centro comercial"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Progreso&query_place_id=ChIJq4cA7uCGzoYRpxFl42FMDlM",
+  "categoryName": "Centro comercial"
+},
+{
+  "title": "Farmacias Benavides",
+  "totalScore": 3.4,
+  "reviewsCount": 37,
+  "street": null,
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "https://www.benavides.com.mx/",
+  "phone": "+52 81 8126 0000",
+  "categories": [
+    "Farmacia",
+    "Tienda de cosméticos",
+    "Médico",
+    "Tienda de belleza y salud",
+    "Asesor médico",
+    "Parafarmacia",
+    "Centro de salud",
+    "Supermercado",
+    "Tienda de artículos de aseo personal"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Farmacias%20Benavides&query_place_id=ChIJd634xkiiXRQRvFGqhpHhxtE",
+  "categoryName": "Farmacia"
+},
+{
+  "title": "Walmart",
+  "totalScore": 4.6,
+  "reviewsCount": 1715,
+  "street": "C. 12 de Octubre 369, entre Topahue y Sta. Rosa",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "http://walmart.com.mx/",
+  "phone": "",
+  "categories": [
+    "Supermercado"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Walmart&query_place_id=ChIJue6D542HzoYRTWHzGH8BITQ",
+  "categoryName": "Supermercado"
+},
+{
+  "title": "Soriana Híper Progreso",
+  "totalScore": 4.1,
+  "reviewsCount": 3000,
+  "street": "Blvd. Solidaridad 663",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "https://www.soriana.com/",
+  "phone": "+52 667 126 6175",
+  "categories": [
+    "Supermercado",
+    "Cajeros automáticos",
+    "Tienda de ropa",
+    "Hipermercado",
+    "Tienda de ropa de hogar",
+    "Tienda de ropa de hombre",
+    "Farmacia",
+    "Tienda de ropa de mujer"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Soriana%20H%C3%ADper%20Progreso&query_place_id=ChIJFS8eeNWGzoYROhCmi38LsgA",
+  "categoryName": "Supermercado"
+},
+{
+  "title": "Casa Ley",
+  "totalScore": 4.4,
+  "reviewsCount": 3047,
+  "street": "Blvd. JUAN BAUTISTA ESCALANTE. 225 FRACCIONAMIENTO, Villa de Cortes",
+  "city": "Hermosillo",
+  "state": "Son.",
+  "countryCode": "MX",
+  "website": "http://www.casaley.com.mx/",
+  "phone": "+52 662 280 3198",
+  "categories": [
+    "Supermercado",
+    "Tienda de vinos"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Casa%20Ley&query_place_id=ChIJTx2lMZqHzoYRJYrQQL8Ykzs",
+  "categoryName": "Supermercado"
+},
+{
+  "title": "Bodega Aurrerá Salazar",
+  "totalScore": 4.3,
+  "reviewsCount": 3003,
+  "street": "Av. Ignacio Salazar 772",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "https://www.bodegaaurrera.com.mx/?utm_source=google&utm_medium=gbp&utm_campaign=local",
+  "phone": "+52 800 000 0022",
+  "categories": [
+    "Tienda de alimentación"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bodega%20Aurrer%C3%A1%20Salazar&query_place_id=ChIJeQuEtUyBzoYRhWRbmIDMjbE",
+  "categoryName": "Tienda de alimentación"
+},
+{
+  "title": "Plaza Reyes",
+  "totalScore": 4.4,
+  "reviewsCount": 744,
+  "street": "Periférico Norte 175",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "+52 662 280 0202",
+  "categories": [
+    "Centro comercial"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Reyes&query_place_id=ChIJXaxGIRSjXRQRmSsJP8zg2dQ",
+  "categoryName": "Centro comercial"
+},
+{
+  "title": "Plaza Bachoco",
+  "totalScore": 5,
+  "reviewsCount": 1,
+  "street": "Bulevar José María Morelos 549",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "phone": "",
+  "categories": [
+    "Centro comercial"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Bachoco&query_place_id=ChIJb8oLSQCHzoYR-4hgbERjaVk",
+  "categoryName": "Centro comercial"
+},
+{
+  "title": "Plaza Dila",
+  "totalScore": 4.6,
+  "reviewsCount": 7800,
+  "street": "Bulevar José María Morelos 349",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "http://www.plazadila.com.mx/",
+  "phone": "+52 662 210 2110",
+  "categories": [
+    "Centro comercial"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Dila&query_place_id=ChIJbUeKNYeGzoYR1DEiZJJlkgc",
+  "categoryName": "Centro comercial"
+},
+{
+  "title": "Pabellón Misiones",
+  "totalScore": 4.4,
+  "reviewsCount": 4358,
+  "street": "Av. Ignacio Salazar",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "http://www.pabellonmisiones.com/",
+  "phone": "+52 662 118 0438",
+  "categories": [
+    "Centro comercial"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Pabell%C3%B3n%20Misiones&query_place_id=ChIJ_eVJrEyBzoYRKkUGuwsxGck",
+  "categoryName": "Centro comercial"
+},
+{
+  "title": "City Center PITIC",
+  "totalScore": 4.5,
+  "reviewsCount": 4809,
+  "street": "Bulevar José María Morelos 355",
+  "city": "Hermosillo",
+  "state": "Sonora",
+  "countryCode": "MX",
+  "website": "http://fibra-uno.com/?page_id=348",
+  "phone": "+52 662 267 8481",
+  "categories": [
+    "Centro comercial"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=City%20Center%20PITIC&query_place_id=ChIJt0CxwmKGzoYRLfRFn-fEW0M",
+  "categoryName": "Centro comercial"
+}]
